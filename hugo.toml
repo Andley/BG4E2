@@ -7,3 +7,8 @@ theme = 'hugo-book'
 [params]
   # 預設是 "docs"，改為 "*" 代表直接讀取 content 根目錄下的所有 Markdown
   BookSection = "*"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true  # 🔥 關鍵設定：允許在 Markdown 中直接使用原生 HTML
