@@ -1,0 +1,4 @@
+baseURL = 'https://andley.github.io/Bnotes/'
+locale = 'en-us'
+title = '我的智慧書籍'
+theme = 'hugo-book'
