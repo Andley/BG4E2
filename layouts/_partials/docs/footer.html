@@ -23,7 +23,6 @@
 
 {{ partial "docs/prev-next" . }}
 
-
 <script>
 document.addEventListener('DOMContentLoaded', () => {
   // 1. 同時抓取電腦版與手機版的按鈕
@@ -39,7 +38,7 @@ document.addEventListener('DOMContentLoaded', () => {
     return !ruby.parentElement.closest('ruby');
   });
 
-  // 💡 安全機制：如果這一頁沒有經文，把這兩顆按鈕都隱藏
+  // 安全機制：如果這一頁沒有經文，把這兩顆按鈕都隱藏
   if (topLevelRubies.length === 0) {
     buttons.forEach(b => b.style.display = 'none');
     return;
@@ -63,7 +62,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const isOneLine = document.body.classList.toggle('one-line-mode');
     const newText = isOneLine ? "切換為：四行對齊模式" : "切換為：一行模式";
     
-    // 同步更新所有按鈕的文字（不論現在看得到哪一顆）
+    // 同步更新所有按鈕的文字
     buttons.forEach(b => b.textContent = newText);
     
     // 切換經文顯示與 title 提示

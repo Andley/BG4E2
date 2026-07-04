@@ -7,7 +7,9 @@ theme = 'hugo-book'
 [params]
   # 預設是 "docs"，改為 "*" 代表直接讀取 content 根目錄下的所有 Markdown
   BookSection = "*"
-
+  # 將選單模式設定為 filetree (預設為此模式，但建議顯式指定)
+  BookMenuBundle = false
+  
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]

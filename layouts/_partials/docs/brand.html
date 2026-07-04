@@ -1,10 +1,7 @@
-<h2 class="book-brand">
-  <a class="flex align-center" href="{{ partial "docs/links/home" . }}">
-    {{- with .Site.Params.BookLogo -}}
-    <img src="{{ . | relURL }}" alt="{{ partial "docs/text/i18n" "Logo" }}" />
-    {{- end -}}
+<div class="book-brand">
+  <a href="{{ site.Home.RelPermalink }}">
     <span>{{ .Site.Title }}</span>
   </a>
-</h2>
+</div>
 
-<button id="toggle-btn-desktop" class="interlinear-btn" style="margin: 15px 0; width: 100%;">切換顯示模式</button>
+<button id="toggle-btn-desktop" class="interlinear-btn interlinear-btn-desktop">切換顯示模式</button>

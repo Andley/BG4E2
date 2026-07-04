@@ -1,19 +1,17 @@
-
-
-<div class="flex align-center justify-between">
+<div class="flex align-center justify-between" style="width: 100%;">
 
   <label for="menu-control">
     <img src="{{ partial "docs/icon" "menu" }}" class="book-icon" alt="{{ partial "docs/text/i18n" "Menu" }}" />
   </label>
 
-  <div style="text-align: center;">
-    <h3>{{ partial "docs/title" . }}</h3>
-    <button id="toggle-btn-mobile" class="interlinear-btn" style="font-size: 11px; padding: 4px 10px; margin-top: 4px;">切換顯示模式</button>
-  </div>
+  <h3>{{ partial "docs/title" . }}</h3>
 
-  <label for="toc-control">
-    {{ if partial "docs/toc-show" . }}
-    <img src="{{ partial "docs/icon" "toc" }}" class="book-icon" alt="{{ partial "docs/text/i18n" "Table of Contents" }}" />
-    {{ end }}
-  </label>
-</div>
+  <div class="flex align-center" style="gap: 12px;">
+    <button id="toggle-btn-mobile" class="interlinear-btn interlinear-btn-mobile">切換顯示模式</button>
+
+    <label for="toc-control">
+      {{ if partial "docs/toc-show" . }}
+      <img src="{{ partial "docs/icon" "toc" }}" class="book-icon" alt="{{ partial "docs/text/i18n" "Table of Contents" }}" style="margin-bottom: 0; vertical-align: middle;" />
+      {{ end }}
+    </label>
+  </div>

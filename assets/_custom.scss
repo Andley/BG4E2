@@ -1,5 +1,55 @@
 
 
+/* ========================================================
+   聖經四行/一行切換按鈕 —— 視覺全域規格一體化
+   ======================================================== */
+
+/* 1. 核心共用外觀（確立相同的配色、字體與圓角膠囊感） */
+.interlinear-btn {
+  background-color: #3498db;
+  color: #ffffff !important;
+  border: none;
+  font-family: inherit;
+  font-weight: 600;
+  border-radius: 20px; /* 經典膠囊 */
+  cursor: pointer;
+  transition: all 0.2s ease-in-out;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  white-space: nowrap; /* 嚴禁斷行 */
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* 懸浮與點擊回饋統一 */
+.interlinear-btn:hover {
+  background-color: #2980b9;
+  transform: translateY(-1px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+}
+
+.interlinear-btn:active {
+  transform: translateY(1px);
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+/* 2. 電腦側邊欄專用微調（大方、撐滿） */
+.interlinear-btn-desktop {
+  font-size: 14px;
+  padding: 10px 20px;
+  margin: 20px 0 10px 0;
+  width: 100%; /* 寬度充滿側邊欄 */
+}
+
+/* 3. 手機頂端列專用微調（精緻、輕量，完美融入 Header 行高） */
+.interlinear-btn-mobile {
+  font-size: 11px;
+  padding: 5px 12px;
+  margin: 0;
+  height: 28px; /* 強制固定高度，確保不撐開全網頁的頂端列 */
+}
+
+
 // 設定字型
 @font-face {
   font-family: 'AndleyFont';
