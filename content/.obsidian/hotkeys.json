@@ -7,13 +7,13 @@
       "key": "D"
     }
   ],
-  "obsidian-git:push2": [
+  "graph:open": [],
+  "obsidian-git:backup-and-close": [
     {
       "modifiers": [
         "Mod"
       ],
       "key": "G"
     }
-  ],
-  "graph:open": []
+  ]
 }
