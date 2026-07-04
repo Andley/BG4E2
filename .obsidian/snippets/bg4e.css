@@ -149,7 +149,7 @@ em{
 }
 
 /* HTML tags in preview and editor */
-.cm-s-obsidian span.cm-tag, .cm-s-obsidian span.cm-string, .cm-s-obsidian span.cm-attribute{
+.cm-tag, .cm-attribute {
   color: var(--text-tag);
   font-family: "Noto Sans ExtraCondensed";
   font-size:11px;

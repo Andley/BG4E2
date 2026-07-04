@@ -4,9 +4,12 @@ weight: 1
 bookCollapseSection: true
 ---
 # 全民希臘文<br>Biblical Greek for Everyone (BG4E)
+memorize/apostles-creed/
 
-
-
+- [Lords-Prayer](Memorize/Lords-Prayer.md)
+- [Apostles-Creed](memorize/apostles-creed/)
+- [Tit.2.1-15](56-Titus/Tit.2.1-15.md)
+- [Apostles-Creed](Memorize/Apostles-Creed.md)
 - [Apostles' Creed](Memorize/Apostles-Creed.md) 
 - [Lord's Prayer](Memorize/Lords-Prayer.md) 
 - [慣用語](Semantics/Idioms.md)

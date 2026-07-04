@@ -14,3 +14,6 @@ theme = 'hugo-book'
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true  # 🔥 關鍵設定：允許在 Markdown 中直接使用原生 HTML
+    [markup.goldmark.renderHooks]
+      [markup.goldmark.renderHooks.link]
+        useEmbedded = "always"

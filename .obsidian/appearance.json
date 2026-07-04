@@ -1,5 +1,11 @@
 {
   "enabledCssSnippets": [
     "bg4e"
-  ]
+  ],
+  "baseFontSizeAction": true,
+  "baseFontSize": 16,
+  "interfaceFontFamily": "Noto Sans TC",
+  "textFontFamily": "Noto Sans TC",
+  "monospaceFontFamily": "Cascadia Mono",
+  "theme": "obsidian"
 }
