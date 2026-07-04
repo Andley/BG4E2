@@ -1,10 +1,11 @@
 ---
-title: Index Page
+title: 全民希臘文 BG4E(Biblical Greek for Everyone)
 weight: 1
 ---
 
+# 全民希臘文 BG4E(Biblical Greek for Everyone)
 
-# HW04 (路 11:9-13) 句法圖析
+### HW04 (路 11:9-13) 句法圖析
 
 
 - <ruby data-title="οὐδείς [A-NSN]&#10;[There is] no"><ruby><ruby>Οὐδὲν<rt>[There is] no</rt></ruby><rt>οὐδείς</rt></ruby><rt>A-NSN</rt></ruby>
