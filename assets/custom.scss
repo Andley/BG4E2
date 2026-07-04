@@ -1,5 +1,11 @@
+// 改變全站主色調（Hugo Book 支援變數覆蓋）
+:root {
+    --color-link: #ff5722; // 將連結改為橘色
+    --body-background: #f5f5f5; // 改變背景顏色
+}
 
-/* 設定字型 */
+
+// 設定字型
 @font-face {
   font-family: 'AndleyFont';
   unicode-range: U+0370-03FF, U+1F00-1FFF; /* Greek and Coptic, Greek Extended */
