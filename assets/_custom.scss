@@ -110,3 +110,18 @@ body.one-line-mode ruby rt {
 .poetry::before {content:'\a                 '; white-space: pre;}
 .paragraph::after {content:'\a          '; white-space: pre;}
 /* --------------------------------------------   */
+
+.interlinear-btn {
+  background-color: #3498db;
+  color: white !important;
+  border: none;
+  border-radius: 20px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.interlinear-btn:hover {
+  background-color: #2980b9;
+}
