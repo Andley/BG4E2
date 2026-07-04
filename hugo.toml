@@ -1,6 +1,6 @@
-baseURL = 'https://andley.github.io/Bnotes/'
-locale = 'en-us'
-title = '我的智慧書籍'
+baseURL = 'https://andley.github.io/GG/'
+locale = 'zh-tw'
+title = '全民希臘文 BG4E'
 theme = 'hugo-book'
 
 

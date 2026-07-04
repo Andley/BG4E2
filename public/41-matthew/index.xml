@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>41 Matthews on 我的智慧書籍</title>
-		<link>http://localhost:1313/Bnotes/41-matthew/</link>
-		<description>Recent content in 41 Matthews on 我的智慧書籍</description>
+		<title>41 Matthews on 全民希臘文 BG4E</title>
+		<link>http://localhost:1313/GG/41-matthew/</link>
+		<description>Recent content in 41 Matthews on 全民希臘文 BG4E</description>
 		<generator>Hugo</generator>
-		<language>en-us</language>
+		<language>zh-tw</language>
 		
 		
 		
 		
-			<atom:link href="http://localhost:1313/Bnotes/41-matthew/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/GG/41-matthew/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>第一章：初探世界</title>
-				<link>http://localhost:1313/Bnotes/41-matthew/mat.1.1/</link>
+				<link>http://localhost:1313/GG/41-matthew/mat.1.1/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/Bnotes/41-matthew/mat.1.1/</guid>
+				<guid>http://localhost:1313/GG/41-matthew/mat.1.1/</guid>
 				<description>&lt;p&gt;Mat 1:1&lt;/p&gt;</description>
 			</item>
 	</channel>

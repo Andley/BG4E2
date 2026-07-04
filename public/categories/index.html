@@ -1,6 +1,6 @@
 <!DOCTYPE html>
-<html lang="en-us" dir="ltr">
-<head><script src="/Bnotes/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=Bnotes/livereload" data-no-instant defer></script>
+<html lang="zh-tw" dir="ltr">
+<head><script src="/GG/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=GG/livereload" data-no-instant defer></script>
   <!--
 Made with Book Theme
 https://github.com/alex-shpak/hugo-book
@@ -11,24 +11,24 @@ https://github.com/alex-shpak/hugo-book
 <meta name="description" content="">
 <meta name="theme-color" media="(prefers-color-scheme: light)" content="#ffffff">
 <meta name="theme-color" media="(prefers-color-scheme: dark)" content="#2e3440">
-<meta name="color-scheme" content="light dark"><meta property="og:url" content="http://localhost:1313/Bnotes/categories/">
-	<meta property="og:site_name" content="我的智慧書籍">
+<meta name="color-scheme" content="light dark"><meta property="og:url" content="http://localhost:1313/GG/categories/">
+	<meta property="og:site_name" content="全民希臘文 BG4E">
 	<meta property="og:title" content="Categories">
-	<meta property="og:locale" content="en_us">
+	<meta property="og:locale" content="zh_tw">
 	<meta property="og:type" content="website">
 
 
 	<meta itemprop="name" content="Categories">
 
-<title>Categories • 我的智慧書籍</title>
-<link rel="icon" href="/Bnotes/favicon.png" >
-<link rel="manifest" href="/Bnotes/manifest.json">
-<link rel="canonical" href="http://localhost:1313/Bnotes/categories/">
-<link rel="stylesheet" href="/Bnotes/book.min.bcdca30cac82f7406dcd1516006b7f2c22a349732a91c2e6228650ec5efc5a50.css" integrity="sha256-vNyjDKyC90BtzRUWAGt/LCKjSXMqkcLmIoZQ7F78WlA=" crossorigin="anonymous">
+<title>Categories • 全民希臘文 BG4E</title>
+<link rel="icon" href="/GG/favicon.png" >
+<link rel="manifest" href="/GG/manifest.json">
+<link rel="canonical" href="http://localhost:1313/GG/categories/">
+<link rel="stylesheet" href="/GG/book.min.8a76048f673a7ded1a55f6465ca3749052ead0d20908cc185144657c10802c87.css" integrity="sha256-inYEj2c6fe0aVfZGXKN0kFLq0NIJCMwYUURlfBCALIc=" crossorigin="anonymous">
 
 
-  <script defer type="module" src="/Bnotes/en.search.min.e906698727b5501fe3c243a429da2ae3da809ec586014cc9edaa826c92a5281d.js" integrity="sha256-6QZphye1UB/jwkOkKdoq49qAnsWGAUzJ7aqCbJKlKB0=" crossorigin="anonymous"></script>
-<link rel="alternate" type="application/rss+xml" href="http://localhost:1313/Bnotes/categories/index.xml" title="Categories" />
+  <script defer type="module" src="/GG/en.search.min.ff3c5f561f46755a7833f4175e381b1059fed8b5de222604a3c33db73ff008fc.js" integrity="sha256-/zxfVh9GdVp4M/QXXjgbEFn&#43;2LXeIiYEo8M9tz/wCPw=" crossorigin="anonymous"></script>
+<link rel="alternate" type="application/rss+xml" href="http://localhost:1313/GG/categories/index.xml" title="Categories" />
 
   
 </head>
@@ -42,15 +42,15 @@ https://github.com/alex-shpak/hugo-book
     
   <nav>
 <h2 class="book-brand">
-  <a class="flex align-center" href="/Bnotes/"><span>我的智慧書籍</span>
+  <a class="flex align-center" href="/GG/"><span>全民希臘文 BG4E</span>
   </a>
 </h2>
 
 
 <div class="book-search hidden">
   <input id="book-search-input" type="text" 
-    placeholder="Search"
-    aria-label="Search"
+    placeholder="搜索"
+    aria-label="搜索"
     maxlength="64" />
   <div class="book-search-spinner hidden"></div>
   <ul id="book-search-results"></ul>
@@ -90,7 +90,7 @@ https://github.com/alex-shpak/hugo-book
   
 
   
-    <a href="/Bnotes/41-matthew/mat.1.1/" class="">
+    <a href="/GG/41-matthew/mat.1.1/" class="">
       第一章：初探世界</a>
   
 
@@ -132,16 +132,22 @@ https://github.com/alex-shpak/hugo-book
     <div class="book-page">
       <header class="book-header hidden">
         
-  <div class="flex align-center justify-between">
+  <div class="logo-or-title">
+  <a href="/">全民希臘文 BG4E</a>
+</div>
+
+<button id="toggle-btn" class="interlinear-btn">切換顯示模式</button>
+
+<div class="flex align-center justify-between">
   <label for="menu-control">
-    <img src="/Bnotes/icons/menu.svg" class="book-icon" alt="Menu" />
+    <img src="/GG/icons/menu.svg" class="book-icon" alt="Menu" />
   </label>
 
   <h3>Categories</h3>
 
   <label for="toc-control">
     
-    <img src="/Bnotes/icons/toc.svg" class="book-icon" alt="Table of Contents" />
+    <img src="/GG/icons/toc.svg" class="book-icon" alt="Table of Contents" />
     
   </label>
 </div>
@@ -182,6 +188,50 @@ https://github.com/alex-shpak/hugo-book
 
 
 
+<script>
+document.addEventListener('DOMContentLoaded', () => {
+  const btn = document.getElementById('toggle-btn');
+  if (!btn) return;
+
+  const topLevelRubies = Array.from(document.querySelectorAll('ruby')).filter(ruby => {
+    return !ruby.parentElement.closest('ruby');
+  });
+
+  if (topLevelRubies.length === 0) {
+    btn.style.display = 'none';
+    return;
+  }
+
+  topLevelRubies.forEach(ruby => {
+    try {
+      const rts = Array.from(ruby.querySelectorAll('rt'));
+      if (rts.length >= 3) {
+        const meaning = rts[0].textContent.trim();
+        const lemma = rts[1].textContent.trim();
+        const pos = rts[2].textContent.trim();
+        ruby.setAttribute('data-hover', `${lemma} [${pos}]\n${meaning}`);
+      }
+    } catch (e) {}
+  });
+
+  btn.addEventListener('click', () => {
+    const isOneLine = document.body.classList.toggle('one-line-mode');
+    btn.textContent = isOneLine ? "切換為：四行對齊模式" : "切換為：一行模式";
+    
+    topLevelRubies.forEach(ruby => {
+      const innerRuby = ruby.querySelector('ruby > ruby') || ruby;
+      const targetElement = innerRuby.querySelector('a') || innerRuby;
+      const hoverData = ruby.getAttribute('data-hover');
+      
+      if (isOneLine && hoverData) {
+        targetElement.setAttribute('title', hoverData);
+      } else {
+        targetElement.removeAttribute('title');
+      }
+    });
+  });
+});
+</script>
  
         
   
