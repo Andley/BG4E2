@@ -2,3 +2,8 @@ baseURL = 'https://andley.github.io/Bnotes/'
 locale = 'en-us'
 title = '我的智慧書籍'
 theme = 'hugo-book'
+
+
+[params]
+  # 預設是 "docs"，改為 "*" 代表直接讀取 content 根目錄下的所有 Markdown
+  BookSection = "*"
