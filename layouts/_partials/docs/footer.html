@@ -1,3 +1,5 @@
+<button id="toggle-btn-global" class="interlinear-btn">切換顯示模式</button>
+
 <div class="flex flex-wrap justify-between">
 
 <div>
@@ -25,22 +27,18 @@
 
 <script>
 document.addEventListener('DOMContentLoaded', () => {
-  // 1. 同時抓取電腦版與手機版的按鈕
-  const btnDesktop = document.getElementById('toggle-btn-desktop');
-  const btnMobile = document.getElementById('toggle-btn-mobile');
-  
-  // 將有找到的按鈕放進陣列裡方便統一處理
-  const buttons = [btnDesktop, btnMobile].filter(b => b !== null);
-  if (buttons.length === 0) return;
+  // 1. 抓取唯一的全域懸浮按鈕
+  const globalBtn = document.getElementById('toggle-btn-global');
+  if (!globalBtn) return;
 
   // 2. 找出目前頁面所有最外層的 ruby 標籤
   const topLevelRubies = Array.from(document.querySelectorAll('ruby')).filter(ruby => {
     return !ruby.parentElement.closest('ruby');
   });
 
-  // 安全機制：如果這一頁沒有經文，把這兩顆按鈕都隱藏
+  // 安全機制：如果這一頁沒有四行對齊的經文，把懸浮按鈕隱藏
   if (topLevelRubies.length === 0) {
-    buttons.forEach(b => b.style.display = 'none');
+    globalBtn.style.display = 'none';
     return;
   }
 
@@ -60,26 +58,29 @@ document.addEventListener('DOMContentLoaded', () => {
   // 4. 定義核心切換邏輯
   function handleToggle() {
     const isOneLine = document.body.classList.toggle('one-line-mode');
-    const newText = isOneLine ? "切換為：四行對齊模式" : "切換為：一行模式";
     
-    // 同步更新所有按鈕的文字
-    buttons.forEach(b => b.textContent = newText);
+    // 更新這顆唯一按鈕的文字
+    globalBtn.textContent = isOneLine ? "切換為：四行對齊模式" : "切換為：一行模式";
     
-    // 切換經文顯示與 title 提示
+    // 切換經文顯示與全方位 title 提示
     topLevelRubies.forEach(ruby => {
-      const innerRuby = ruby.querySelector('ruby > ruby') || ruby;
-      const targetElement = innerRuby.querySelector('a') || innerRuby;
       const hoverData = ruby.getAttribute('data-hover');
-      
-      if (isOneLine && hoverData) {
-        targetElement.setAttribute('title', hoverData);
-      } else {
-        targetElement.removeAttribute('title');
-      }
+      if (!hoverData) return;
+
+      const allTargets = Array.from(ruby.querySelectorAll('ruby, a'));
+      allTargets.push(ruby);
+
+      allTargets.forEach(el => {
+        if (isOneLine) {
+          el.setAttribute('title', hoverData);
+        } else {
+          el.removeAttribute('title');
+        }
+      });
     });
   }
 
-  // 5. 為兩顆按鈕都綁定同一個點擊事件
-  buttons.forEach(b => b.addEventListener('click', handleToggle));
+  // 5. 綁定點擊事件
+  globalBtn.addEventListener('click', handleToggle);
 });
 </script>
