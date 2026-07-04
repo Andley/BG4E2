@@ -1,10 +1,10 @@
 @font-face {
-  font-family: AndleyFont;
+  font-family: 'AndleyFont';
   unicode-range: U+0370-03FF, U+1F00-1FFF; /* Greek UNICODE */
   src: local("Gentium Book Plus");
   }
 @font-face {
-  font-family: AndleyFont;
+  font-family: 'AndleyFont';
   unicode-range: U+0590-05FF, U+FB10-FB4F; /* Hebrew UNICODE */
   src: local("Ezra SIL");
   }
@@ -20,7 +20,7 @@ h6, .HyperMD-header-6 {  text-indent: 0.5em; }
 
 
 html, body, p, li {
-  font-family: AndleyFont, "Noto Sans", "Noto Sans TC";
+  font-family: 'AndleyFont', "Noto Sans", "Noto Sans TC";
   color: var(--text-color);
   font-size: 1em;
 }
@@ -30,7 +30,7 @@ ruby {
   font-size: 16px ; 
   ruby-align:start;
   padding: 0 3px 0 0;
-  font-family:  AndleyFont, "Noto Sans ExtraCondensed", "未來熒黑";
+  font-family:  'AndleyFont', "Noto Sans ExtraCondensed", "未來熒黑";
   line-height:75px;
 }
 
@@ -38,7 +38,7 @@ rt {
   font-size: 13px ; 
   font-weight:normal;
   padding: 0 3px 0 0;
-  font-family: AndleyFont, "Noto Sans ExtraCondensed", "未來熒黑" ;
+  font-family: 'AndleyFont', "Noto Sans ExtraCondensed", "未來熒黑" ;
   white-space: nowrap;
 } 
 
@@ -50,7 +50,7 @@ rt {
   display: inline-grid;
   grid-template-rows: auto auto auto auto;
   margin: 0 0.1em 0.5em 0em;
-  font-family: AndleyFont, "Noto Sans ExtraCondensed", "未來熒黑";
+  font-family: 'AndleyFont', "Noto Sans ExtraCondensed", "未來熒黑";
 }
 /* surface text */
 .w .t {
@@ -74,7 +74,7 @@ a {text-decoration: none; color: var(--text-link); }
   margin-right: auto;
   border: 2px solid;
   color: var(--text-color);
-  font-family: AndleyFont, "Noto Sans", "Noto Sans TC";
+  font-family: 'AndleyFont', "Noto Sans", "Noto Sans TC";
 } 
 
 .markdown-preview-view th {
@@ -121,7 +121,7 @@ em{
   --control-character-color: silver;
   --collapse-icon-color-collapsed: lightgreen;
   --color-base-40: silver;
-  --font-text: AndleyFont, "Noto Sans";
+  --font-text: 'AndleyFont', "Noto Sans";
   --table-cell-vertical-alignment: middle;
   --table-border-color: silver;
   }
@@ -143,7 +143,7 @@ em{
   --link-color:rgb(128, 136, 240);
   --link-external-color:rgb(128, 136, 240);
   --color-base-40: darkblue;
-  --font-text: AndleyFont, "Noto Sans";
+  --font-text: 'AndleyFont', "Noto Sans";
   --table-cell-vertical-alignment: middle;
   --table-border-color: gray;
 }
