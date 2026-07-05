@@ -120,14 +120,14 @@ ruby rt {
   display: block !important;
   width: 100% !important;             /* 寬度撐滿才能精準計算置中 */
   text-align: center !important;       /* 文字置中核心 */
-  font-size: 15px !important;
+  font-size: 1em !important;
   line-height: 1.2 !important; 
   font-family: 'AndleyFont', sans-serif !important;
 }
 
 /* 最內層希臘文原文的字體外觀 */
 ruby > ruby > ruby {
-  font-size: 19px !important;
+  font-size: 1.2em !important;
   line-height: 1.2 !important; /* 同步微調原文的行高，讓第一行與第二行更緊湊 */
   text-align: center !important;
   font-family: 'AndleyFont', serif !important;

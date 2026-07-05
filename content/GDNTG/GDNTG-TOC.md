@@ -3,6 +3,7 @@ title: "GDNTG-TOC"
 date: 2026-07-04
 draft: false
 ---
+![GDNTG1](GDNTG1.png)
 
 
 |   封面  |  書目   |

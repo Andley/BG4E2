@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Tools/_index.md",
+                "file": "content/GDNTG/Chapter12.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "_index"
+              "title": "Chapter12"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "7cf29117bbc50740",
@@ -94,8 +95,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/_index.md",
-                "collapseAll": false,
+                "file": "content/GDNTG/Chapter12.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -104,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for _index"
+              "title": "Chapter12 的反向連結"
             }
           },
           {
@@ -147,7 +148,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-archive",
-              "title": "All properties"
+              "title": "所有屬性"
             }
           },
           {
@@ -156,16 +157,27 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/GDNTG/Chapter12.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of _index"
+              "title": "Chapter12 的大綱"
+            }
+          },
+          {
+            "id": "a581efafb0bea073",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -174,6 +186,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:開啟快速切換": false,
       "graph:查看關聯圖": false,
       "canvas:建立新畫布": false,
@@ -185,6 +198,24 @@
   },
   "active": "991fa1c6a5f747c8",
   "lastOpenFiles": [
+    "content/GDNTG/GDNTG-TOC.md",
+    "content/GDNTG/Chapter12.md",
+    "public/book.min.fa08be30f6e650ba71e4568cea0365349f6f6a0b50bebc7e1aa3d690032ef02c.css",
+    "content/GDNTG/_index.md",
+    "content/GDNTG/GDNTG1.png",
+    "static/images/語言金字塔.png",
+    "static/images/Pasted image 20260106152338.png",
+    "static/images/Pasted image 20260106152343.png",
+    "static/images/Pasted image 20260106152253.png",
+    "static/images/Pasted image 20260106152049.png",
+    "static/images/Pasted image 20260106083511.png",
+    "static/images/Pasted image 20260106082144.png",
+    "static/images/Pasted image 20260106082136.png",
+    "static/images/Pasted image 20260106082129.png",
+    "static/images",
+    "content/_index.md",
+    "content/test.md",
+    "content/Tools/_index.md",
     "public/book.min.aa6df1af1a6e69aea65660ec36ca81b424bde5f0d3f016941d871fe52a70257e.css",
     "public/book.min.e7ce94597b1460534245eae2496113f5309aa8c71d11ad208393a36f1de324f1.css",
     "public/book.min.a472be228426626ce3e77d3936413243c1d55781f8c26c46575efe2e37c3d828.css",
@@ -193,14 +224,10 @@
     "public/book.min.b837d1f0fd5c7b4ea6022336a09b9e6f10f34ae62b8b76c3cd49d2bec1419a8d.css",
     "public/book.min.a223e0df4da4faf29fb8f5d326d4f95f102da8cbf4328d7cc5747035918f3016.css",
     "public/book.min.db5f0c9fd7498a56b68643e4f9ad67620b1e2d050b1b5f60ab11cc61030cb069.css",
-    "public/book.min.ea84968ff88264fce0fd20516051228f6ead75916783e0e0751f199f1385404a.css",
-    "public/book.min.57e30d348daae26ab413c2e1e004eb61145e1872a6ead45f6903918bf9488ab1.css",
-    "public/en.search.min.85f26d98b1570858d1eb335965887670cee9971bed9af7e2f768ac73d59494b2.js",
     "content/Syntax/_index.md",
     "content/Semantics/_index.md",
     "content/Parables/_index.md",
     "content/Memorize/_index.md",
-    "content/GDNTG/_index.md",
     "content/BG4E-ExpPreaching/_index.md",
     "content/BBG4E/_index.md",
     "content/45-Romans/Rom.1.8-15.md",
@@ -211,25 +238,11 @@
     "content/Mounce-Syntax-Summary.md",
     "content/Living Greek Resources.md",
     "content/Greek Pedagogy.md",
-    "content/_index.md",
     "memorize/apostles-creed.md",
     "content/56-Titus/Tit.2.1-15.md",
     "content/Memorize/Apostles-Creed.md",
     "content/66-Revelation/_index.md",
     "content/65-Jude/_index.md",
-    "content/63-2John/_index.md",
-    "content/64-3John/_index.md",
-    "content/62-1John/_index.md",
-    "content/61-2Peter/_index.md",
-    "public/icons/chevron-right.svg",
-    "content/images/語言金字塔.png",
-    "content/images/Pasted image 20260106152343.png",
-    "content/images/Pasted image 20260106152338.png",
-    "content/images/Pasted image 20260106152049.png",
-    "content/images/Pasted image 20260106152253.png",
-    "content/images/Pasted image 20260106083511.png",
-    "content/images/Pasted image 20260106082144.png",
-    "content/images/Pasted image 20260106082136.png",
-    "content/images/Pasted image 20260106082129.png"
+    "content/63-2John/_index.md"
   ]
 }

@@ -2,7 +2,7 @@
   "enabledCssSnippets": [
     "bg4e"
   ],
-  "baseFontSizeAction": true,
+  "baseFontSizeAction": false,
   "baseFontSize": 16,
   "interfaceFontFamily": "Noto Sans TC",
   "textFontFamily": "Noto Sans TC",

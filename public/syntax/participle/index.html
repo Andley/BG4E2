@@ -36,7 +36,7 @@ https://github.com/alex-shpak/hugo-book
 <link rel="stylesheet" href="/GG/book.min.776ce52f2151109c093fbf1e6b937743f6ac610b8289a4f9e1a6d570d337a2f1.css" integrity="sha256-d2zlLyFREJwJP78ea5N3Q/asYQuCiaT54abVcNM3ovE=" crossorigin="anonymous">
 
 
-  <script defer type="module" src="/GG/en.search.min.85f26d98b1570858d1eb335965887670cee9971bed9af7e2f768ac73d59494b2.js" integrity="sha256-hfJtmLFXCFjR6zNZZYh2cM7plxvtmvfi92isc9WUlLI=" crossorigin="anonymous"></script>
+  <script defer type="module" src="/GG/en.search.min.a2c4fd62ffff316aa5cbcd34418d17d9ebeaad7ed964afa4826a4f70e8464fe2.js" integrity="sha256-osT9Yv//MWqly800QY0X2evqrX7ZZK&#43;kgmpPcOhGT&#43;I=" crossorigin="anonymous"></script>
 
   
 </head>
@@ -6276,12 +6276,8 @@ https://github.com/alex-shpak/hugo-book
 <script>
 document.addEventListener('DOMContentLoaded', () => {
   
-  const btnDesktop = document.getElementById('toggle-btn-desktop');
-  const btnMobile = document.getElementById('toggle-btn-mobile');
-  
-  
-  const buttons = [btnDesktop, btnMobile].filter(b => b !== null);
-  if (buttons.length === 0) return;
+  const globalBtn = document.getElementById('toggle-btn-global');
+  if (!globalBtn) return;
 
   
   const topLevelRubies = Array.from(document.querySelectorAll('ruby')).filter(ruby => {
@@ -6290,7 +6286,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
   
   if (topLevelRubies.length === 0) {
-    buttons.forEach(b => b.style.display = 'none');
+    globalBtn.style.display = 'none';
     return;
   }
 
@@ -6310,26 +6306,22 @@ document.addEventListener('DOMContentLoaded', () => {
   
   function handleToggle() {
     const isOneLine = document.body.classList.toggle('one-line-mode');
-    const newText = isOneLine ? "切換為：四行對齊模式" : "切換為：一行模式";
     
     
-    buttons.forEach(b => b.textContent = newText);
+    globalBtn.textContent = isOneLine ? "切換為：四行對齊模式" : "切換為：一行模式";
     
     
     topLevelRubies.forEach(ruby => {
       const hoverData = ruby.getAttribute('data-hover');
       if (!hoverData) return;
 
-      
       const allTargets = Array.from(ruby.querySelectorAll('ruby, a'));
-      allTargets.push(ruby); 
+      allTargets.push(ruby);
 
       allTargets.forEach(el => {
         if (isOneLine) {
-          
           el.setAttribute('title', hoverData);
         } else {
-          
           el.removeAttribute('title');
         }
       });
@@ -6337,9 +6329,10 @@ document.addEventListener('DOMContentLoaded', () => {
   }
 
   
-  buttons.forEach(b => b.addEventListener('click', handleToggle));
+  globalBtn.addEventListener('click', handleToggle);
 });
 </script>
+
  
         
   
