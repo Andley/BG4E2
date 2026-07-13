@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/48-Galatians/_index.md",
+                "file": "content/48-Galatians/Galatians-Notes.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "_index"
+              "title": "Galatians-Notes"
             }
           }
         ]
@@ -228,6 +228,7 @@
   },
   "active": "809950d4d4f9414e",
   "lastOpenFiles": [
+    "content/48-Galatians/_index.md",
     "content/GDNTG/Chapter04.md",
     "public/tools/ai-工具/index.html",
     "public/tools/ai-工具",
