@@ -31,5 +31,13 @@
       ],
       "key": "R"
     }
+  ],
+  "workspace:split-vertical": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "V"
+    }
   ]
 }

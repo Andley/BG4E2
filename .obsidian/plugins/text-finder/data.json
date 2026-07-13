@@ -1,0 +1,50 @@
+{
+  "clearAfterHidden": false,
+  "enableInputHotkeys": true,
+  "sourceModeWhenSearch": true,
+  "moveCursorToMatch": true,
+  "useSelectionAsSearch": true,
+  "useObsidianSearchInRead": true,
+  "useEscapeCharInReplace": true,
+  "enableHistory": true,
+  "historyMaxCount": 10,
+  "historySortOrder": "lastUsedAt",
+  "searchHistory": [
+    {
+      "text": "]",
+      "lastUsedAt": 1765058517409,
+      "createdAt": 1765058514110,
+      "count": 1
+    },
+    {
+      "text": "(\\d:\\d+)",
+      "lastUsedAt": 1765063112522,
+      "createdAt": 1765063054898,
+      "count": 2
+    },
+    {
+      "text": "逐行",
+      "lastUsedAt": 1767689439671,
+      "createdAt": 1767689439653,
+      "count": 1
+    },
+    {
+      "text": "逐行對照",
+      "lastUsedAt": 1767689444973,
+      "createdAt": 1767689444962,
+      "count": 1
+    },
+    {
+      "text": "2",
+      "lastUsedAt": 1773448521494,
+      "createdAt": 1773448521494,
+      "count": 1
+    },
+    {
+      "text": ";(.*?) [A-Za-z0-9].*?\"",
+      "lastUsedAt": 1776376893977,
+      "createdAt": 1776376832023,
+      "count": 1
+    }
+  ]
+}

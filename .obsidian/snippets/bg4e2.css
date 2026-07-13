@@ -149,7 +149,7 @@ em{
 }
 
 /* HTML tags in preview and editor */
-.cm-tag, .cm-attribute {
+.cm-tag, .cm-attribute, .cm-string {
   color: var(--text-tag);
   font-family: "Noto Sans ExtraCondensed";
   font-size:11px;

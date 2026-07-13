@@ -6,5 +6,10 @@
   "alwaysUpdateLinks": true,
   "showUnsupportedFiles": true,
   "newFileLocation": "current",
-  "attachmentFolderPath": "./attachments"
+  "attachmentFolderPath": "./",
+  "defaultViewMode": "preview",
+  "readableLineLength": false,
+  "strictLineBreaks": true,
+  "propertiesInDocument": "source",
+  "tabSize": 4
 }

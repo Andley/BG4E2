@@ -1,0 +1,21 @@
+{{- $link := .Destination -}}
+{{- $isExternal := strings.HasPrefix $link "http" -}}
+
+{{- if not $isExternal -}}
+  {{- /* 讓 Hugo 自動尋找這個 Markdown 檔案對應的真實網頁頁面 */ -}}
+  {{- $page := .Page.GetPage $link -}}
+  {{- if $page -}}
+    {{- /* 如果找到，直接替換為 Hugo 生成的正確相對網址 (包含 /BT4E/) */ -}}
+    {{- $link = $page.RelPermalink -}}
+  {{- else -}}
+    {{- /* 備用方案：如果 Hugo 沒抓到頁面，手動去除 .md 結尾 */ -}}
+    {{- if strings.HasSuffix $link ".md" -}}
+      {{- $link = strings.TrimSuffix ".md" $link -}}
+      {{- $link = printf "%s/" $link -}}
+      {{- /* 將相對路徑轉換為包含 baseURL 子目錄的安全路徑 */ -}}
+      {{- $link = $link | relURL -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+
+<a href="{{ $link | safeURL }}"{{ with .Title }} title="{{ . }}"{{ end }}{{ if $isExternal }} target="_blank" rel="noopener noreferrer"{{ end }}>{{ .Text | safeHTML }}</a>
