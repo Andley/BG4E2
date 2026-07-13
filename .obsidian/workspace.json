@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/GDNTG/Chapter04.md",
+                "file": "content/48-Galatians/_index.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Chapter04"
+              "title": "_index"
             }
           }
         ]
@@ -113,8 +113,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 216.5,
-    "collapsed": true
+    "width": 216.5
   },
   "right": {
     "id": "7cf29117bbc50740",
@@ -229,6 +228,7 @@
   },
   "active": "809950d4d4f9414e",
   "lastOpenFiles": [
+    "content/GDNTG/Chapter04.md",
     "public/tools/ai-工具/index.html",
     "public/tools/ai-工具",
     "public/en.search.min.16e0275ca50f0e85a71b904d197b977282d63f87634bdd5b7ee97d049b75a2ea.js",
@@ -248,7 +248,6 @@
     "content/Tools/Biblography.md",
     "content/Tools/_index.md",
     "content/GDNTG/Chapter05.md",
-    "content/GDNTG/Chapter04.md",
     "content/GDNTG/_index.md",
     "content/GDNTG/Chapter12.md",
     "public/book.min.fa08be30f6e650ba71e4568cea0365349f6f6a0b50bebc7e1aa3d690032ef02c.css",
@@ -268,7 +267,6 @@
     "public/book.min.e7ce94597b1460534245eae2496113f5309aa8c71d11ad208393a36f1de324f1.css",
     "public/book.min.a472be228426626ce3e77d3936413243c1d55781f8c26c46575efe2e37c3d828.css",
     "public/book.min.f14fca92d9473879b06771dd4dd66897205309eadea679c749acbe8e00cfdbc8.css",
-    "public/book.min.8c0c6243fdbc46db3c3b109f923f3de158b7789b51272565437084b6d63e0aae.css",
     "content/Syntax/_index.md",
     "content/Semantics/_index.md",
     "content/Parables/_index.md",
