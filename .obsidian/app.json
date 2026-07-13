@@ -8,8 +8,9 @@
   "newFileLocation": "current",
   "attachmentFolderPath": "./",
   "defaultViewMode": "preview",
-  "readableLineLength": false,
+  "readableLineLength": true,
   "strictLineBreaks": true,
   "propertiesInDocument": "source",
-  "tabSize": 4
+  "tabSize": 4,
+  "promptDelete": false
 }
