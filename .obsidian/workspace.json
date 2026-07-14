@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/48-Galatians/Galatians-Interlinear.md",
+                "file": "content/_index.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Galatians-Interlinear"
+              "title": "_index"
             }
           }
         ]
@@ -34,7 +34,7 @@
               "type": "markdown",
               "state": {
                 "file": "content/48-Galatians/Galatians-Interlinear.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
@@ -73,13 +73,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/48-Galatians/Galatians-Interlinear.md",
+                "file": "content/_index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Galatians-Interlinear"
+              "title": "Outline of _index"
             }
           },
           {
@@ -109,12 +109,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 363.5
+    "width": 268.5
   },
   "right": {
     "id": "7cf29117bbc50740",
@@ -227,16 +226,25 @@
       "find-n-replace:Find-n-Replace": false
     }
   },
-  "active": "b4c75298bded420e",
+  "active": "809950d4d4f9414e",
   "lastOpenFiles": [
+    "public/book.min.f5105c38f27b856f79f823026435c8cfa7017b4c6228a61e99f6abe367750bfe.css",
+    "public/book.min.f7d790e2d0aef558a824604b4470a4852212e3c9014657e02a1056f3cdf7d37f.css",
+    "public/book.min.8ce3b85cd352c2e571f18597f9ea0199775d7a422e78dc6e7b8a24395bdaf046.css",
+    "public/book.min.cbdd6563304e96795fc42c419e5cc6990f14ea1d1dbf162032ad29eddc791cbc.css",
+    "public/book.min.13d9e983e84ae54e31ce21e3dcb2fc0e67bd13b84f4d4470b9efd6716857ed8d.css",
+    "public/book.min.14406abba7a29b0036626331adf51db196e2bd286e1d3076272751da26095d60.css",
+    "public/book.min.ca26ec290f2dfb170dea624d43e9f682d0bc54a05489213616f04de4dcd271ef.css",
+    "public/book.min.06277fed90a71699456068cfa0fa1601d9022bbdeefaad8c00e11193e444100c.css",
+    "public/book.min.c4946f7beba316f9cd1013769f493db1a30579d432b23270ec59cb63049ac3cc.css",
+    "public/book.min.deac9e0f63ecb246f69a382fa3aa4183ba26b33350038df9346d680043ff6e35.css",
+    "public/book.min.4266eca636301fa1473d8bc43e722899809d3f6caac56fc1180c7ad0651edb16.css",
+    "content/Tools/_index.md",
     "content/48-Galatians/_index.md",
     "content/48-Galatians/Galatians-Interlinear.md",
+    "content/48-Galatians/Gal.5.2-6.md",
     "content/48-Galatians/Galatians-Notes.md",
     "content/GDNTG/Chapter04.md",
-    "public/tools/ai-工具/index.html",
-    "public/tools/ai-工具",
-    "public/en.search.min.16e0275ca50f0e85a71b904d197b977282d63f87634bdd5b7ee97d049b75a2ea.js",
-    "public/en.search-data.min.8d51f74fc636aa4e9aa86f8f6079858ba6ebdf4beb1ee2efd5c0dda21a52c24c.json",
     "content/GDNTG/Chapter06.md",
     "content/_index.md",
     "content/45-Romans/未命名 1.md",
@@ -250,11 +258,9 @@
     "content/Tools/open-source.md",
     "content/Tools/Digital-Tools.md",
     "content/Tools/Biblography.md",
-    "content/Tools/_index.md",
     "content/GDNTG/Chapter05.md",
     "content/GDNTG/_index.md",
     "content/GDNTG/Chapter12.md",
-    "public/book.min.fa08be30f6e650ba71e4568cea0365349f6f6a0b50bebc7e1aa3d690032ef02c.css",
     "content/GDNTG/GDNTG1.png",
     "static/images/語言金字塔.png",
     "static/images/Pasted image 20260106152338.png",
@@ -265,14 +271,8 @@
     "static/images/Pasted image 20260106082144.png",
     "static/images/Pasted image 20260106082136.png",
     "static/images/Pasted image 20260106082129.png",
-    "static/images",
     "content/test.md",
-    "public/book.min.aa6df1af1a6e69aea65660ec36ca81b424bde5f0d3f016941d871fe52a70257e.css",
-    "public/book.min.e7ce94597b1460534245eae2496113f5309aa8c71d11ad208393a36f1de324f1.css",
-    "public/book.min.a472be228426626ce3e77d3936413243c1d55781f8c26c46575efe2e37c3d828.css",
-    "public/book.min.f14fca92d9473879b06771dd4dd66897205309eadea679c749acbe8e00cfdbc8.css",
     "content/Syntax/_index.md",
-    "content/Semantics/_index.md",
-    "content/Parables/_index.md"
+    "content/Semantics/_index.md"
   ]
 }

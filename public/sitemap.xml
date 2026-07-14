@@ -584,19 +584,10 @@
     <loc>http://localhost:1313/GG/48-galatians/gal.6.18/</loc>
     <lastmod>2026-07-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/GG/48-galatians/galatians-allinone/</loc>
-    <lastmod>2026-07-04T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/GG/48-galatians/galatians-clause/</loc>
     <lastmod>2026-07-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/GG/48-galatians/galatians-interlinear/</loc>
-    <lastmod>2026-07-04T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/GG/48-galatians/galatians-intertextuality/</loc>
-    <lastmod>2026-07-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/GG/48-galatians/galatians-notes/</loc>
     <lastmod>2026-07-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/GG/48-galatians/galatians-style/</loc>
@@ -1273,6 +1264,8 @@
   </url><url>
     <loc>http://localhost:1313/GG/syntax/%E8%AA%9E%E6%B0%A3-mood/</loc>
     <lastmod>2026-07-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/GG/48-galatians/galatians-interlinear/</loc>
   </url><url>
     <loc>http://localhost:1313/GG/gdntg/chapter02/</loc>
   </url><url>

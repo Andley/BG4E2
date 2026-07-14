@@ -23,7 +23,7 @@ bookCollapseSection: true
 
 ## 全民希臘文：新約句法筆記
 - [登山寶訓 (馬太福音 5-7 章)](40-Matthew/SM-Notes.md)
-- [加拉太書](48-Galatians/Galatians-Notes.md)
+- [加拉太書](48-Galatians/_index.md)
 - [以弗所書](49-Ephesians/Ephesians-Notes.md)
 	- [弗1:3-14 (新約第二長的句子)](49-Ephesians/Eph.1.3-14.md)
 - [腓立比書](50-Philippians/Philippians-Notes.md)
