@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/GDNTG/Chapter02.md",
+                "file": "content/48-Galatians/_index.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Chapter02"
+              "title": "_index"
             }
           }
         ]
@@ -227,6 +227,7 @@
   },
   "active": "d00ff1d5805590c7",
   "lastOpenFiles": [
+    "content/GDNTG/Chapter02.md",
     "content/GDNTG/_index.md",
     "content/GDNTG/GDNTG-TOC.md",
     "content/BBG4E/_index.md",
@@ -252,7 +253,6 @@
     "content/48-Galatians/Galatians-Interlinear-2lines.md",
     "content/48-Galatians/Galatians-Interlinear-2.5lines.md",
     "content/48-Galatians/Galatians-Interlinear-3lines.md",
-    "content/40-Matthew/SM-2.5lines.md",
     "public/book.min.3d82e2f418cb02692c6ed7eeebfad4ce4cb0bf7d20139850bf3cb2c2d6b70332.css",
     "public/book.min.cccb6eea0f11045f818b4491b80709f55a427407499bed65caf45af38c62ed3d.css",
     "public/book.min.e999d6f7cea33f19a4f3004e850fec978f406b2213decfe38f12f847e7192a6f.css",
