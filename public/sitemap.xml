@@ -2,55 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/BG4E2/</loc>
-    <lastmod>2026-07-04T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/BG4E2/40-matthew/</loc>
-    <lastmod>2026-07-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/BG4E2/41-mark/</loc>
-    <lastmod>2026-07-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/BG4E2/42-luke/</loc>
-    <lastmod>2026-07-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/BG4E2/43-john/</loc>
-    <lastmod>2026-07-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/BG4E2/44-acts/</loc>
     <lastmod>2026-07-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/BG4E2/45-romans/</loc>
     <lastmod>2026-07-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/BG4E2/46-1corinthians/</loc>
-    <lastmod>2026-07-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/BG4E2/47-2corinthians/</loc>
-    <lastmod>2026-07-04T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/BG4E2/48-galatians/</loc>
     <lastmod>2026-07-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/BG4E2/49-ephesians/</loc>
-    <lastmod>2026-07-04T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/BG4E2/50-philippians/</loc>
-    <lastmod>2026-07-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/BG4E2/51-colossians/</loc>
-    <lastmod>2026-07-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/BG4E2/52-1thessalonians/</loc>
-    <lastmod>2026-07-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/BG4E2/54-1timothy/</loc>
-    <lastmod>2026-07-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/BG4E2/56-titus/</loc>
-    <lastmod>2026-07-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/BG4E2/57-philemon/</loc>
     <lastmod>2026-07-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/BG4E2/58-hebrews/</loc>
@@ -60,9 +21,6 @@
     <lastmod>2026-07-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/BG4E2/60-1peter/</loc>
-    <lastmod>2026-07-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/BG4E2/61-2peter/</loc>
     <lastmod>2026-07-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/BG4E2/62-1john/</loc>
@@ -75,9 +33,6 @@
     <lastmod>2026-07-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/BG4E2/65-jude/</loc>
-    <lastmod>2026-07-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/BG4E2/66-revelation/</loc>
     <lastmod>2026-07-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/BG4E2/bbg4e/</loc>
@@ -102,6 +57,9 @@
     <lastmod>2026-07-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/BG4E2/tools/</loc>
+    <lastmod>2026-07-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/BG4E2/</loc>
     <lastmod>2026-07-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/BG4E2/syntax/000/</loc>
@@ -213,12 +171,6 @@
     <lastmod>2026-07-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/BG4E2/bbg4e/9/</loc>
-    <lastmod>2026-07-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/BG4E2/asbhr/06/</loc>
-    <lastmod>2026-07-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/BG4E2/08-ruth/</loc>
     <lastmod>2026-07-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/BG4E2/62-1john/123john-clause/</loc>
@@ -401,9 +353,6 @@
     <loc>http://localhost:1313/BG4E2/syntax/31.4/</loc>
     <lastmod>2026-07-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/BG4E2/32-jonah/</loc>
-    <lastmod>2026-07-04T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/BG4E2/64-3john/3jo.1.1-4/</loc>
     <lastmod>2026-07-04T00:00:00+00:00</lastmod>
   </url><url>
@@ -438,9 +387,6 @@
     <lastmod>2026-07-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/BG4E2/syntax/apposition/</loc>
-    <lastmod>2026-07-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/BG4E2/asbhr/</loc>
     <lastmod>2026-07-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/BG4E2/syntax/aspect/</loc>
@@ -494,9 +440,6 @@
     <loc>http://localhost:1313/BG4E2/49-ephesians/ephesians-notes/</loc>
     <lastmod>2026-07-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/BG4E2/48-galatians/gal.1.1-5/</loc>
-    <lastmod>2026-07-04T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/BG4E2/48-galatians/gal.1.10/</loc>
     <lastmod>2026-07-04T00:00:00+00:00</lastmod>
   </url><url>
@@ -507,9 +450,6 @@
     <lastmod>2026-07-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/BG4E2/48-galatians/gal.1.18-24/</loc>
-    <lastmod>2026-07-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/BG4E2/48-galatians/gal.1.6-9/</loc>
     <lastmod>2026-07-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/BG4E2/48-galatians/gal.2.1-5/</loc>
@@ -587,16 +527,10 @@
     <loc>http://localhost:1313/BG4E2/48-galatians/galatians-clause/</loc>
     <lastmod>2026-07-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/BG4E2/48-galatians/galatians-intertextuality/</loc>
-    <lastmod>2026-07-04T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/BG4E2/48-galatians/galatians-style/</loc>
     <lastmod>2026-07-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/BG4E2/48-galatians/galatians-vocabulary/</loc>
-    <lastmod>2026-07-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/BG4E2/gdntg/gdntg-toc/</loc>
     <lastmod>2026-07-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/BG4E2/syntax/ggbb-apposition-vs-epexgetisis/</loc>
@@ -812,21 +746,6 @@
     <loc>http://localhost:1313/BG4E2/43-john/joh.3.26/</loc>
     <lastmod>2026-07-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/BG4E2/32-jonah/jon.1/</loc>
-    <lastmod>2026-07-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/BG4E2/32-jonah/jon.2/</loc>
-    <lastmod>2026-07-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/BG4E2/32-jonah/jon.3/</loc>
-    <lastmod>2026-07-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/BG4E2/32-jonah/jon.4/</loc>
-    <lastmod>2026-07-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/BG4E2/32-jonah/jonah-notes/</loc>
-    <lastmod>2026-07-04T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/BG4E2/65-jude/jud.1.1-2/</loc>
     <lastmod>2026-07-04T00:00:00+00:00</lastmod>
   </url><url>
@@ -939,9 +858,6 @@
     <lastmod>2026-07-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/BG4E2/syntax/minimalistic-grammar/</loc>
-    <lastmod>2026-07-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/BG4E2/mounce-syntax-summary/</loc>
     <lastmod>2026-07-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/BG4E2/tools/open-source/</loc>
@@ -1079,9 +995,6 @@
     <loc>http://localhost:1313/BG4E2/45-romans/romans-vocabulary/</loc>
     <lastmod>2026-07-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/BG4E2/08-ruth/ruth-notes/</loc>
-    <lastmod>2026-07-04T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/BG4E2/42-luke/sermon-on-the-plain-luke-6.20b-26/</loc>
     <lastmod>2026-07-04T00:00:00+00:00</lastmod>
   </url><url>
@@ -1146,9 +1059,6 @@
     <lastmod>2026-07-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/BG4E2/40-matthew/sm-4lines/</loc>
-    <lastmod>2026-07-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/BG4E2/40-matthew/sm-notes/</loc>
     <lastmod>2026-07-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/BG4E2/parables/syllabus/</loc>
@@ -1265,7 +1175,15 @@
     <loc>http://localhost:1313/BG4E2/syntax/%E8%AA%9E%E6%B0%A3-mood/</loc>
     <lastmod>2026-07-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/BG4E2/48-galatians/galatians-interlinear/</loc>
+    <loc>http://localhost:1313/BG4E2/40-matthew/sm-notes/</loc>
+  </url><url>
+    <loc>http://localhost:1313/BG4E2/48-galatians/gal.1.1-5/</loc>
+  </url><url>
+    <loc>http://localhost:1313/BG4E2/48-galatians/gal.1.6-9/</loc>
+  </url><url>
+    <loc>http://localhost:1313/BG4E2/48-galatians/galatians-interlinear-4lines/</loc>
+  </url><url>
+    <loc>http://localhost:1313/BG4E2/48-galatians/galatians-intertextuality/</loc>
   </url><url>
     <loc>http://localhost:1313/BG4E2/gdntg/chapter02/</loc>
   </url><url>
@@ -1291,7 +1209,13 @@
   </url><url>
     <loc>http://localhost:1313/BG4E2/gdntg/chapter13/</loc>
   </url><url>
+    <loc>http://localhost:1313/BG4E2/gdntg/gdntg-toc/</loc>
+  </url><url>
+    <loc>http://localhost:1313/BG4E2/mounce-syntax-summary/</loc>
+  </url><url>
     <loc>http://localhost:1313/BG4E2/tools/ai-%E5%B7%A5%E5%85%B7/</loc>
+  </url><url>
+    <loc>http://localhost:1313/BG4E2/asbhr/</loc>
   </url><url>
     <loc>http://localhost:1313/BG4E2/categories/</loc>
   </url><url>
