@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>&#34;耶穌的比喻&#34; on 全民希臘文 BG4E</title>
-		<link>http://localhost:1313/GG/parables/</link>
+		<link>http://localhost:1313/BG4E2/parables/</link>
 		<description>Recent content in &#34;耶穌的比喻&#34; on 全民希臘文 BG4E</description>
 		<generator>Hugo</generator>
 		<language>zh-tw</language>
@@ -12,26 +12,26 @@
 		
 			<lastBuildDate>Sat, 04 Jul 2026 00:00:00 +0000</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/GG/parables/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/BG4E2/parables/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Parables-John</title>
-				<link>http://localhost:1313/GG/parables/parables-john/</link>
+				<link>http://localhost:1313/BG4E2/parables/parables-john/</link>
 				<pubDate>Sat, 04 Jul 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/GG/parables/parables-john/</guid>
+				<guid>http://localhost:1313/BG4E2/parables/parables-john/</guid>
 				<description>&lt;h2 id=&#34;約翰福音的比喻-26-verses&#34;&gt;約翰福音的比喻 (26 verses)&lt;a class=&#34;anchor&#34; href=&#34;#%e7%b4%84%e7%bf%b0%e7%a6%8f%e9%9f%b3%e7%9a%84%e6%af%94%e5%96%bb-26-verses&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;&#xD;&#xA;&lt;h4 id=&#34;真葡萄樹的比喻-john-151-8&#34;&gt;真葡萄樹的比喻 (John 15:1-8)&lt;a class=&#34;anchor&#34; href=&#34;#%e7%9c%9f%e8%91%a1%e8%90%84%e6%a8%b9%e7%9a%84%e6%af%94%e5%96%bb-john-151-8&#34;&gt;#&lt;/a&gt;&lt;/h4&gt;&#xD;&#xA;&lt;h4 id=&#34;好牧人的比喻-john-101-18&#34;&gt;好牧人的比喻 (John 10:1-18)&lt;a class=&#34;anchor&#34; href=&#34;#%e5%a5%bd%e7%89%a7%e4%ba%ba%e7%9a%84%e6%af%94%e5%96%bb-john-101-18&#34;&gt;#&lt;/a&gt;&lt;/h4&gt;</description>
 			</item>
 			<item>
 				<title>Parables-Mark</title>
-				<link>http://localhost:1313/GG/parables/parables-mark/</link>
+				<link>http://localhost:1313/BG4E2/parables/parables-mark/</link>
 				<pubDate>Sat, 04 Jul 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/GG/parables/parables-mark/</guid>
+				<guid>http://localhost:1313/BG4E2/parables/parables-mark/</guid>
 				<description>&lt;h2 id=&#34;馬可福音的比喻-32-verses&#34;&gt;馬可福音的比喻 (32 verses)&lt;a class=&#34;anchor&#34; href=&#34;#%e9%a6%ac%e5%8f%af%e7%a6%8f%e9%9f%b3%e7%9a%84%e6%af%94%e5%96%bb-32-verses&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;&#xD;&#xA;&lt;h4 id=&#34;撒種的比喻-mark-41-32&#34;&gt;撒種的比喻 (Mark 4:1-32)&lt;a class=&#34;anchor&#34; href=&#34;#%e6%92%92%e7%a8%ae%e7%9a%84%e6%af%94%e5%96%bb-mark-41-32&#34;&gt;#&lt;/a&gt;&lt;/h4&gt;</description>
 			</item>
 			<item>
 				<title>Syllabus</title>
-				<link>http://localhost:1313/GG/parables/syllabus/</link>
+				<link>http://localhost:1313/BG4E2/parables/syllabus/</link>
 				<pubDate>Sat, 04 Jul 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/GG/parables/syllabus/</guid>
+				<guid>http://localhost:1313/BG4E2/parables/syllabus/</guid>
 				<description>&lt;table&gt;&#xA;&#x9;&lt;thead&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;th&gt;week&lt;/th&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;th&gt;內容&lt;/th&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;th&gt;份量&lt;/th&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&lt;/thead&gt;&#xA;&#x9;&lt;tbody&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;1&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;2&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;Joh 15:1-8&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;8&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;3&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;Joh 10:1-18&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;18&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;6&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;天國的比喻 (Mat 13:1-17)&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;17&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;7&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;天國的比喻 (Mat 13:18-35&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;18&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;8&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;天國的比喻 (Mat 13:36-52&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;17&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;9&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;終末的比喻 (Mat 25:1-13&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;13&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;10&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;終末的比喻 (Mat 25:14-30&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;17&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;11&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;終末的比喻 (Mat 25:31-46&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;16&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;12&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;Luk 15:1-16&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;16&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;13&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;Luk 15:17-32&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;16&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;14&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;好撒馬利亞人 Luke 10:25-37&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;13&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;15&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;葡萄園工人 Mat 20:1-16&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;16&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;p&gt;4 | Mar 4:1-20 | 20&#xA;5 | Mar 4:21-34 | 14&lt;/p&gt;</description>
 			</item>
 	</channel>

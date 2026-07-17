@@ -75,64 +75,35 @@ html, body, p, li {
   }
 
   /* 標題 */
-  h1 {
-    text-decoration-line: underline; text-decoration-style: double;
-  }
+h1 {text-decoration-line: underline; text-decoration-style: double;}
+h1, h2 { text-align: center; font-weught: bolder;}
 h3 {  text-indent: -0.5em; }
 h5{  text-indent: 0.5em; }
 h6 {  text-indent: 1em; }
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'AndleyFont','Noto Sans Black', 'Noto Sans TC Black', sans-serif;
+   font-family: 'Noto Sans Black', 'Noto Sans TC Black', sans-serif;
   }
 
-
-/* ========================================================
-   3. 聖經逐字對齊（四行 / 一行模式）核心切換語法
-   ======================================================= */
-
-/* 【四行模式預設狀態】維持標準逐字對齊樣式 */
-/* 僅針對最外層沒有被其他 ruby 包裹的 ruby 進行排版 */
-:not(ruby) > ruby {
-  display: inline-flex !important;
-  flex-direction: column !important;
-  align-items: center !important;
-  justify-content: center !important;
-  text-align: center !important;       /* 文字置中 */
-  margin: 0 0 5px 0 !important; /* 每個單字塊彼此的左右與下方間距 */
-  vertical-align: top !important;
+/* === css for <ruby> Interlinear === */
+ruby {
+  font-size: 1em ; 
+  ruby-align:start;
+  padding: 0 0.1em 0 0;
+  font-family:  'AndleyFont', "Noto Sans ExtraCondensed", "未來熒黑";
+  line-height: 4.5;
 }
 
-/* 內層嵌套的 ruby 保持彈性垂直排列 */
-ruby ruby {
-  display: flex !important;
-  flex-direction: column !important;
-  align-items: center !important;
-  justify-content: center !important;
-  text-align: center !important;
-  width: 100% !important;             /* 強制充滿外包絡線，防止位移 */
-}
-
-/* 讓三層 rt 標籤乖乖顯示並垂直排列 */
-ruby rt {
-  display: block !important;
-  width: 100% !important;             /* 寬度撐滿才能精準計算置中 */
-  text-align: center !important;       /* 文字置中核心 */
-  line-height: 1.5em !important; 
-  font-family: 'AndleyFont', sans-serif !important;
-}
-
-/* 最內層希臘文原文的字體外觀 */
-ruby > ruby > ruby {
-  font-size: 1.2em !important;
-  line-height: 1.2em !important; /* 同步微調原文的行高，讓第一行與第二行更緊湊 */
-  text-align: center !important;
-  font-family: 'AndleyFont', serif !important;
-}
-
+rt {
+  font-size: 0.85em ; 
+  font-weight:normal;
+  padding: 0 0.1em 0 0;
+  font-family: 'AndleyFont', "Noto Sans ExtraCondensed", "未來熒黑" ;
+} 
 /* ==================== 切換狀態：一行模式 (one-line) ==================== */
 body.one-line-mode :not(ruby) > ruby,
 body.one-line-mode ruby {
   display: inline !important;
+  line-height:1em;
   width: auto !important;             /* 恢復單行時不要強制撐寬 */
 }
 body.one-line-mode :not(ruby) > ruby {

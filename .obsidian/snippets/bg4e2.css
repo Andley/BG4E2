@@ -10,60 +10,27 @@
   }
 
 /* 標題 */
-h1, .HyperMD-header-1 { text-decoration-line: underline; text-decoration-style: double;}
-h1, .HyperMD-header-1, h2, .HyperMD-header-2 { text-align: center; ;}
-h3, h4, h5, h6 { text-align: left; }
-h3, .HyperMD-header-3 {  text-indent: -1em; }
-h4, .HyperMD-header-4 {  text-indent: -0.5em; }
-h5, .HyperMD-header-5 {  text-indent: 0em; }
-h6, .HyperMD-header-6 {  text-indent: 0.5em; }
-
-
-html, body, p, li {
-  font-family: 'AndleyFont', "Noto Sans", "Noto Sans TC";
-  color: var(--text-color);
-  font-size: 1em;
-}
+h1 { text-decoration-line: underline; text-decoration-style: double;}
+h1, h2 { text-align: center; }
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Noto Sans Black', 'Noto Sans TC Black', sans-serif;
+  }
 
 /* === css for <ruby> Interlinear === */
 ruby {
-  font-size: 16px ; 
+  font-size: 1em ; 
   ruby-align:start;
-  padding: 0 3px 0 0;
+  padding: 0 0.1em 0 0;
   font-family:  'AndleyFont', "Noto Sans ExtraCondensed", "未來熒黑";
-  line-height:75px;
+  line-height: 3.5;
 }
 
 rt {
-  font-size: 13px ; 
+  font-size: 0.85em ; 
   font-weight:normal;
-  padding: 0 3px 0 0;
+  padding: 0 0.1em 0 0;
   font-family: 'AndleyFont', "Noto Sans ExtraCondensed", "未來熒黑" ;
-  white-space: nowrap;
 } 
-
-
-
-/* === css for <span> interlinear === */
-/* Container for each word */
-.w {
-  display: inline-grid;
-  grid-template-rows: auto auto auto auto;
-  margin: 0 0.1em 0.5em 0em;
-  font-family: 'AndleyFont', "Noto Sans ExtraCondensed", "未來熒黑";
-}
-/* surface text */
-.w .t {
-  font-size: 1em;
-  line-height:1em;
-  padding-bottom:0.2em;
-}
-/* lemma and link */
-.w .l, .w .g, .w .m  {
-  font-size: 0.85em;
-  line-height:0.85em;
-  padding-bottom:0.3em;
-}
 
 
 a {text-decoration: none; color: var(--text-link); }

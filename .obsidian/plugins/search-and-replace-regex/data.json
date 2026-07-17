@@ -1,0 +1,70 @@
+{
+  "defaultSearchOptions": {
+    "caseSensitive": false,
+    "wholeWord": false,
+    "useRegex": true
+  },
+  "searchHistory": [
+    {
+      "query": "<RUBY><ruby><ruby>(.*?)<rt>(.*?)</rt></ruby><rt>(.*?)</rt></ruby><rt>(.*?)</rt></RUBY>",
+      "replace": "<RUBY><ruby>$1<rt>$2</rt></ruby><rt>$4</rt></RUBY>",
+      "options": {
+        "caseSensitive": false,
+        "wholeWord": false,
+        "useRegex": true
+      },
+      "timestamp": 1784253281128
+    },
+    {
+      "query": "<RUBY><ruby><ruby>(.*?)<rt>(.*?)</rt></ruby><rt>(.*?)</rt></ruby><rt>(.*?)</rt></RUBY>",
+      "replace": "<RUBY><ruby>$1<rt>>$2</rt></ruby><rt>$4</rt></RUBY>",
+      "options": {
+        "caseSensitive": false,
+        "wholeWord": false,
+        "useRegex": true
+      },
+      "timestamp": 1784253241049
+    },
+    {
+      "query": "<RUBY><ruby><ruby>(.*?)<rt>>(.*?)</rt></ruby><rt>(.*?)</rt></ruby><rt>(.*?)</rt></RUBY>",
+      "replace": "<RUBY><ruby>$1<rt>>$2</rt></ruby><rt>$4</rt></RUBY>",
+      "options": {
+        "caseSensitive": false,
+        "wholeWord": false,
+        "useRegex": true
+      },
+      "timestamp": 1784253179808
+    },
+    {
+      "query": "([^\\(])Gal ",
+      "replace": "$1",
+      "options": {
+        "caseSensitive": false,
+        "wholeWord": false,
+        "useRegex": true
+      },
+      "timestamp": 1784250906381
+    },
+    {
+      "query": "[^\\(]Gal ",
+      "replace": " ",
+      "options": {
+        "caseSensitive": false,
+        "wholeWord": false,
+        "useRegex": true
+      },
+      "timestamp": 1784250880471
+    },
+    {
+      "query": "[^\\(]Gal ",
+      "replace": "",
+      "options": {
+        "caseSensitive": false,
+        "wholeWord": false,
+        "useRegex": true
+      },
+      "timestamp": 1784250828525
+    }
+  ],
+  "maxHistoryItems": 20
+}

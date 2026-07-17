@@ -1,14 +1,14 @@
 {
   "name": "全民希臘文 BG4E",
   "short_name": "全民希臘文 BG4E",
-  "start_url": "/GG/",
-  "scope": "/GG/",
+  "start_url": "/BG4E2/",
+  "scope": "/BG4E2/",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#000000",
   "icons": [
     {
-      "src": "/GG/favicon.svg",
+      "src": "/BG4E2/favicon.svg",
       "sizes": "512x512"
     }
   ]

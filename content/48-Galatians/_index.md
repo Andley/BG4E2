@@ -4,13 +4,12 @@ weight: 48
 bookCollapseSection: true
 ---
 
-
-
 # 加拉太書希臘文筆記
 ## ΠΡΟΣ ΓΑΛΑΤΑΣ
 
 ### 經文閱讀
--  [加拉太書 Interlinear](Galatians-Interlinear.md)
+-  [加拉太書 Interlinear](Galatians-Interlinear-4lines.md)
+- -  [加拉太書 Interlinear](Galatians-Interlinear-4lines.md)
 
 ### 原文特色
 - [加拉太書子句結構](Galatians-Clause.md)
@@ -70,6 +69,7 @@ W<br>華 | Wallace, Daniel B. <em>Greek Grammar Beyond the Basics</em>. Grand Ra
 P<br>波 | Porter, Stanley E. <em>Idioms of the Greek New Testament</em>. Second edition with corrections. Sheffield, U.K.: Sheffield Academic, 1994. <br>斯丹利‧波特(Stanley E. Porter)。《新約希臘文的慣用語》。葉雅蓮譯。台北市：中華福音神學院，2013。
 DeSilva | DeSilva, David Arthur. _Galatians: A Handbook on the Greek Text_. BHGNT. Waco, Texas: Baylor University Press, 2014.
 Gupta | Gupta, Nijay, and Jonah Sandford. _Intermediate Biblical Greek Reader: Galatians and Related Texts_. Pennington ePress, George Fox University Libraries, 2018.
+
 ### 參考資料
 簡寫 | 出處
 :------:| --- 
@@ -78,3 +78,8 @@ Stutzman | Stutzman, Robert. _An Exegetical Summary of Galatians_. ESS. Dallas, 
 Robertson | A. T. Robertson。《活泉新約希臘文解經 (卷七) 加拉太書、以弗所書、腓立比書、歌羅西書》。詹正義編。陳一萍譯。10卷。加州：美國活泉，1991。
 Mathewson | Mathewson, David L., and Elodie Ballantine Emig. <em>Intermediate Greek Grammar: Syntax for Students of the New Testament</em>. Grand Rapids, MI: Baker Academic, 2016.
 Runge | Runge, Steven E. <em>Discourse Grammar of the Greek New Testament: A Practical Introduction for Teaching and Exegesis</em>. Peabody, MA.: Hendrickson, 2010.
+
+
+
+---
+[加拉太書希臘文筆記 ↵](_index.md)

@@ -13,32 +13,46 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/48-Galatians/Galatians-Interlinear-3lines.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "_index"
+              "title": "Galatians-Interlinear-3lines"
+            }
+          },
+          {
+            "id": "8b6a13b5dc511bef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/48-Galatians/Galatians-Interlinear-3lines.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Galatians-Interlinear-3lines"
             }
           }
         ]
       },
       {
-        "id": "a9e2798221d9b7ca",
+        "id": "c7acb00bffbc1c91",
         "type": "tabs",
         "children": [
           {
-            "id": "ef8e39a988cd3c5d",
+            "id": "4af373c85c4b992d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/48-Galatians/Galatians-Interlinear.md",
-                "mode": "source",
+                "file": "content/48-Galatians/Galatians-Interlinear-3lines.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Galatians-Interlinear"
+              "title": "Galatians-Interlinear-3lines"
             }
           }
         ]
@@ -208,7 +222,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -222,31 +236,38 @@
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false,
-      "find-n-replace:Find-n-Replace": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "809950d4d4f9414e",
   "lastOpenFiles": [
-    "public/book.min.b5c782383ff4ba53617ddee3d8dd5c833dbf5bf264e3b6a778dd30196f0f0deb.css",
-    "public/book.min.c47807a2ddb795adae0f838af54fa373aa260bf64ce5edbc9587ae6dfa5cc8a1.css",
-    "public/book.min.edf5eb0129715bcfd9e6fc380d2065dcb63f42dee02f29c7041c8a6616be0a67.css",
-    "public/book.min.dacfb9fe4e0c698d56baa305376c2180a0c7151dc6d3177e61314f10dd0edc76.css",
-    "public/book.min.d0ac5e20dd5ede2addb6bb0b78cf4ff1ee8ec6f2f7634c30b42c7befb12ed68b.css",
-    "public/book.min.c904f6f35108ab00e885d41c0a93844d014b3dbdc17d26e599f68497663eae98.css",
-    "public/book.min.58df63efb9d1e3d1d6d659b6215e6122154c5e4700a2ce7e3d20c3c09c3d1210.css",
-    "public/book.min.f5105c38f27b856f79f823026435c8cfa7017b4c6228a61e99f6abe367750bfe.css",
-    "public/book.min.f7d790e2d0aef558a824604b4470a4852212e3c9014657e02a1056f3cdf7d37f.css",
-    "public/book.min.8ce3b85cd352c2e571f18597f9ea0199775d7a422e78dc6e7b8a24395bdaf046.css",
-    "public/book.min.cbdd6563304e96795fc42c419e5cc6990f14ea1d1dbf162032ad29eddc791cbc.css",
-    "content/Tools/_index.md",
     "content/48-Galatians/_index.md",
-    "content/48-Galatians/Galatians-Interlinear.md",
+    "content/48-Galatians/Gal.1.1-5.md",
+    "content/48-Galatians/Gal.1.6-9.md",
+    "content/48-Galatians/Gal.1.13-17.md",
+    "content/48-Galatians/Gal.1.11-12.md",
+    "content/48-Galatians/Gal.1.10.md",
+    "content/48-Galatians/Galatians-Interlinear-4lines.md",
+    "content/_index.md",
+    "content/48-Galatians/Galatians-Interlinear-3lines.md",
+    "content/GDNTG/_index.md",
+    "content/Mounce-Syntax-Summary.md",
+    "public/book.min.e371e7effcbff3563070afe9b8c6e82a29e3d01f3200b6e9a7d8b3ec71b27120.css",
+    "public/book.min.626d1df62f07bfe5b20ca0eae68d84313e02294d5ec127941abc5395b5e0ddd4.css",
+    "public/book.min.579fae3deebbf1ebc5df35eb626811310056fa91f1a9458a23e2bb0a9ba7c1d9.css",
+    "public/book.min.0a1c7fb019f9b65123286c77eb093d32be5bf89fa48c37d62f9213a0c80a11c1.css",
+    "public/book.min.d4187b78f60bfb2a3084366f6fc00b57f41d213b7f7b922e4ca7f394579b1541.css",
+    "public/book.min.5745adb755f845b898b87d561a4c8d00f36d7ddec1f6c33fb74d08a3d5684d5b.css",
+    "public/48-galatians/galatians-interlinear-4lines/index.html",
+    "public/48-galatians/galatians-interlinear-4lines",
+    "public/48-galatians/galatians-interlinear-3lines/index.html",
+    "public/48-galatians/galatians-interlinear-3lines",
+    "content/48-Galatians/Galatians-Intertextuality.md",
+    "content/Tools/_index.md",
     "content/48-Galatians/Gal.5.2-6.md",
     "content/48-Galatians/Galatians-Notes.md",
     "content/GDNTG/Chapter04.md",
     "content/GDNTG/Chapter06.md",
-    "content/_index.md",
     "content/45-Romans/未命名 1.md",
     "content/45-Romans/_index.md",
     "content/GDNTG/GDNTG-TOC.md",
@@ -256,11 +277,6 @@
     "content/Tools/UNICODE.md",
     "content/Tools/Phrasing-Signs.md",
     "content/Tools/open-source.md",
-    "content/Tools/Digital-Tools.md",
-    "content/Tools/Biblography.md",
-    "content/GDNTG/Chapter05.md",
-    "content/GDNTG/_index.md",
-    "content/GDNTG/Chapter12.md",
     "content/GDNTG/GDNTG1.png",
     "static/images/語言金字塔.png",
     "static/images/Pasted image 20260106152338.png",
@@ -270,9 +286,6 @@
     "static/images/Pasted image 20260106083511.png",
     "static/images/Pasted image 20260106082144.png",
     "static/images/Pasted image 20260106082136.png",
-    "static/images/Pasted image 20260106082129.png",
-    "content/test.md",
-    "content/Syntax/_index.md",
-    "content/Semantics/_index.md"
+    "static/images/Pasted image 20260106082129.png"
   ]
 }
