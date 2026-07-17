@@ -8,37 +8,37 @@
         "type": "tabs",
         "children": [
           {
-            "id": "aabc4630106e98f1",
+            "id": "d00ff1d5805590c7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/40-Matthew/SM-2.5lines.md",
+                "file": "content/GDNTG/Chapter02.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "SM-2.5lines"
+              "title": "Chapter02"
             }
           }
         ]
       },
       {
-        "id": "a9548f36ca10670e",
+        "id": "a30b025ee786cd72",
         "type": "tabs",
         "children": [
           {
-            "id": "1d3b64834950d0a7",
+            "id": "a2cdef134e044fb4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/40-Matthew/SM-2.5lines.md",
+                "file": "content/48-Galatians/Galatians-Interlinear-2lines.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "SM-2.5lines"
+              "title": "Galatians-Interlinear-2lines"
             }
           }
         ]
@@ -225,13 +225,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1d3b64834950d0a7",
+  "active": "d00ff1d5805590c7",
   "lastOpenFiles": [
-    "content/48-Galatians/_index.md",
-    "content/40-Matthew/SM-2.5lines.md",
+    "content/GDNTG/_index.md",
+    "content/GDNTG/GDNTG-TOC.md",
+    "content/BBG4E/_index.md",
+    "content/ASBHR/06.md",
+    "content/66-Revelation/_index.md",
+    "content/65-Jude/_index.md",
+    "content/61-2Peter/_index.md",
+    "content/60-1Peter/_index.md",
+    "content/59-James/_index.md",
+    "content/58-Hebrews/_index.md",
+    "content/57-Philemon/_index.md",
+    "content/56-Titus/_index.md",
+    "content/54-1Timothy/_index.md",
+    "content/52-1Thessalonians/_index.md",
+    "content/51-Colossians/_index.md",
+    "content/47-2Corinthians/_index.md",
+    "content/46-1Corinthians/_index.md",
+    "content/44-Acts/_index.md",
+    "content/43-John/_index.md",
+    "content/42-Luke/_index.md",
+    "content/41-Mark/_index.md",
+    "content/49-Ephesians/_index.md",
+    "content/48-Galatians/Galatians-Interlinear-2lines.md",
     "content/48-Galatians/Galatians-Interlinear-2.5lines.md",
     "content/48-Galatians/Galatians-Interlinear-3lines.md",
-    "content/48-Galatians/Galatians-Interlinear-4lines.md",
+    "content/40-Matthew/SM-2.5lines.md",
     "public/book.min.3d82e2f418cb02692c6ed7eeebfad4ce4cb0bf7d20139850bf3cb2c2d6b70332.css",
     "public/book.min.cccb6eea0f11045f818b4491b80709f55a427407499bed65caf45af38c62ed3d.css",
     "public/book.min.e999d6f7cea33f19a4f3004e850fec978f406b2213decfe38f12f847e7192a6f.css",
@@ -242,26 +263,6 @@
     "public/book.min.456dfeb2d1a67bb7f17ed51ff5c19d2c5081a6dc90a1da6dd8855b79514ace9e.css",
     "public/book.min.3a71061cd515f8e74bcb661124f01b34040f9721ed6c932747a4813403b12697.css",
     "public/book.min.93a8280711b507a175f56806c50ae99bcd96ff508a1007fd4162fe1cbdd254f1.css",
-    "content/40-Matthew/SM-4lines.md",
-    "content/40-Matthew/SM-3lines.md",
-    "content/40-Matthew/SM-Notes.md",
-    "content/40-Matthew/_index.md",
-    "content/40-Matthew/Mat.5.1-2.md",
-    "content/32-Jonah/Jonah-Notes.md",
-    "content/32-Jonah/Jon.3.md",
-    "content/32-Jonah/Jon.4.md",
-    "content/32-Jonah/Jon.2.md",
-    "content/32-Jonah/Jon.1.md",
-    "content/49-Ephesians/_index.md",
-    "content/08-Ruth/Ruth-Notes.md",
-    "content/48-Galatians/Galatians-Vocabulary.md",
-    "content/48-Galatians/Galatians-Style.md",
-    "content/48-Galatians/Galatians-Intertextuality.md",
-    "content/48-Galatians/Galatians-Clause.md",
-    "content/48-Galatians/Gal.1.1-5.md",
-    "content/48-Galatians/Gal.1.6-9.md",
-    "content/48-Galatians/Gal.1.13-17.md",
-    "content/48-Galatians/Gal.1.11-12.md",
     "content/GDNTG/GDNTG1.png",
     "static/images/語言金字塔.png",
     "static/images/Pasted image 20260106152338.png",

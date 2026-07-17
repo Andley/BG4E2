@@ -6,6 +6,36 @@
   },
   "searchHistory": [
     {
+      "query": "<RUBY><ruby>(.*?)<rt>(.*?)</rt></ruby><rt>(.*?)</rt></RUBY> ",
+      "replace": "<RUBY><ruby>$1<rt>$2</rt></RUBY> ",
+      "options": {
+        "caseSensitive": false,
+        "wholeWord": false,
+        "useRegex": true
+      },
+      "timestamp": 1784266927431
+    },
+    {
+      "query": "<RUBY><ruby>(.*?)<rt>(.*?)</rt></ruby><rt>[^V](.*?)</rt></RUBY> ",
+      "replace": "<RUBY><ruby>$1<rt>$2</rt></RUBY> ",
+      "options": {
+        "caseSensitive": false,
+        "wholeWord": false,
+        "useRegex": true
+      },
+      "timestamp": 1784265553773
+    },
+    {
+      "query": "<RUBY><ruby>(.*?)<rt>(.*?)</rt></ruby><rt>[^V]-(.*?)</rt></RUBY> ",
+      "replace": "<RUBY><ruby>$1<rt>$2</rt></RUBY> ",
+      "options": {
+        "caseSensitive": false,
+        "wholeWord": false,
+        "useRegex": true
+      },
+      "timestamp": 1784265529680
+    },
+    {
       "query": "<RUBY><ruby>(.*?)<rt>(.*?)</rt></ruby><rt>(.*?)</rt></RUBY>",
       "replace": "<RUBY>$1<rt>$2</rt></RUBY>",
       "options": {
