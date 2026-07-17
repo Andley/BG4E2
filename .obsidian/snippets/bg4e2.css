@@ -22,7 +22,7 @@ ruby {
   ruby-align:start;
   padding: 0 0.1em 0 0;
   font-family:  'AndleyFont', "Noto Sans ExtraCondensed", "未來熒黑";
-  line-height: 3.5;
+  line-height: 4.5;
 }
 
 rt {
@@ -31,26 +31,6 @@ rt {
   padding: 0 0.1em 0 0;
   font-family: 'AndleyFont', "Noto Sans ExtraCondensed", "未來熒黑" ;
 } 
-
-
-a {text-decoration: none; color: var(--text-link); }
-
-/* table */
-.markdown-preview-view table {
-  margin-left: auto;
-  margin-right: auto;
-  border: 2px solid;
-  color: var(--text-color);
-  font-family: 'AndleyFont', "Noto Sans", "Noto Sans TC";
-} 
-
-.markdown-preview-view th {
-  border-bottom: 3px double;
-}
-
-.markdown-preview-view tr:nth-child(even) {
-      background-color: var(--background-secondary);
-}
 
 /* --------------------------------------------   */
 .verb { color: var(--color1); }

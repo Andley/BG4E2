@@ -138,3 +138,33 @@ body.one-line-mode ruby rt {
 .interlinear-btn:hover {
   background-color: #2980b9;
 }
+
+/* =
+
+/* table */
+/* ========================================================
+   4. 簡化版表格樣式
+   ======================================================= */
+.markdown table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 20px 0;
+}
+
+/* 統一儲存格的外框與內距 */
+.markdown table th, 
+.markdown table td {
+  padding: 10px 14px;
+  text-align: left;
+}
+
+/* 標頭改為與希臘文一致的藍底白字 */
+.markdown table th {
+  background-color: #1a5f8a;
+  color: #ffffff;
+}
+
+/* 偶數行自動帶微灰色，方便閱讀 */
+.markdown table tr:nth-child(even) {
+  background-color: lightgray;
+}

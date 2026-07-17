@@ -8,51 +8,37 @@
         "type": "tabs",
         "children": [
           {
-            "id": "809950d4d4f9414e",
+            "id": "aabc4630106e98f1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/48-Galatians/Galatians-Interlinear-3lines.md",
+                "file": "content/40-Matthew/SM-2.5lines.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Galatians-Interlinear-3lines"
-            }
-          },
-          {
-            "id": "8b6a13b5dc511bef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/48-Galatians/Galatians-Interlinear-3lines.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Galatians-Interlinear-3lines"
+              "title": "SM-2.5lines"
             }
           }
         ]
       },
       {
-        "id": "c7acb00bffbc1c91",
+        "id": "a9548f36ca10670e",
         "type": "tabs",
         "children": [
           {
-            "id": "4af373c85c4b992d",
+            "id": "1d3b64834950d0a7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/48-Galatians/Galatians-Interlinear-3lines.md",
+                "file": "content/40-Matthew/SM-2.5lines.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Galatians-Interlinear-3lines"
+              "title": "SM-2.5lines"
             }
           }
         ]
@@ -239,44 +225,43 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "809950d4d4f9414e",
+  "active": "1d3b64834950d0a7",
   "lastOpenFiles": [
     "content/48-Galatians/_index.md",
+    "content/40-Matthew/SM-2.5lines.md",
+    "content/48-Galatians/Galatians-Interlinear-2.5lines.md",
+    "content/48-Galatians/Galatians-Interlinear-3lines.md",
+    "content/48-Galatians/Galatians-Interlinear-4lines.md",
+    "public/book.min.3d82e2f418cb02692c6ed7eeebfad4ce4cb0bf7d20139850bf3cb2c2d6b70332.css",
+    "public/book.min.cccb6eea0f11045f818b4491b80709f55a427407499bed65caf45af38c62ed3d.css",
+    "public/book.min.e999d6f7cea33f19a4f3004e850fec978f406b2213decfe38f12f847e7192a6f.css",
+    "public/book.min.d97a870327a9593aa442398add54112e35227cdc7e6bb456754a9ada3de9a385.css",
+    "public/book.min.5fa6f5e37b196603ae1f39d789749645df6c3794bd6991d784ac5041d6e1b399.css",
+    "public/book.min.7d02ee987e2d54e35e2a16281248443ef49e84a2b5e20ef1934aeadb918e2de6.css",
+    "public/book.min.a3cd108652df3a8e64f2ed99d3eec63c70763036eee1d6db0c559b2c5a2569b9.css",
+    "public/book.min.456dfeb2d1a67bb7f17ed51ff5c19d2c5081a6dc90a1da6dd8855b79514ace9e.css",
+    "public/book.min.3a71061cd515f8e74bcb661124f01b34040f9721ed6c932747a4813403b12697.css",
+    "public/book.min.93a8280711b507a175f56806c50ae99bcd96ff508a1007fd4162fe1cbdd254f1.css",
+    "content/40-Matthew/SM-4lines.md",
+    "content/40-Matthew/SM-3lines.md",
+    "content/40-Matthew/SM-Notes.md",
+    "content/40-Matthew/_index.md",
+    "content/40-Matthew/Mat.5.1-2.md",
+    "content/32-Jonah/Jonah-Notes.md",
+    "content/32-Jonah/Jon.3.md",
+    "content/32-Jonah/Jon.4.md",
+    "content/32-Jonah/Jon.2.md",
+    "content/32-Jonah/Jon.1.md",
+    "content/49-Ephesians/_index.md",
+    "content/08-Ruth/Ruth-Notes.md",
+    "content/48-Galatians/Galatians-Vocabulary.md",
+    "content/48-Galatians/Galatians-Style.md",
+    "content/48-Galatians/Galatians-Intertextuality.md",
+    "content/48-Galatians/Galatians-Clause.md",
     "content/48-Galatians/Gal.1.1-5.md",
     "content/48-Galatians/Gal.1.6-9.md",
     "content/48-Galatians/Gal.1.13-17.md",
     "content/48-Galatians/Gal.1.11-12.md",
-    "content/48-Galatians/Gal.1.10.md",
-    "content/48-Galatians/Galatians-Interlinear-4lines.md",
-    "content/_index.md",
-    "content/48-Galatians/Galatians-Interlinear-3lines.md",
-    "content/GDNTG/_index.md",
-    "content/Mounce-Syntax-Summary.md",
-    "public/book.min.e371e7effcbff3563070afe9b8c6e82a29e3d01f3200b6e9a7d8b3ec71b27120.css",
-    "public/book.min.626d1df62f07bfe5b20ca0eae68d84313e02294d5ec127941abc5395b5e0ddd4.css",
-    "public/book.min.579fae3deebbf1ebc5df35eb626811310056fa91f1a9458a23e2bb0a9ba7c1d9.css",
-    "public/book.min.0a1c7fb019f9b65123286c77eb093d32be5bf89fa48c37d62f9213a0c80a11c1.css",
-    "public/book.min.d4187b78f60bfb2a3084366f6fc00b57f41d213b7f7b922e4ca7f394579b1541.css",
-    "public/book.min.5745adb755f845b898b87d561a4c8d00f36d7ddec1f6c33fb74d08a3d5684d5b.css",
-    "public/48-galatians/galatians-interlinear-4lines/index.html",
-    "public/48-galatians/galatians-interlinear-4lines",
-    "public/48-galatians/galatians-interlinear-3lines/index.html",
-    "public/48-galatians/galatians-interlinear-3lines",
-    "content/48-Galatians/Galatians-Intertextuality.md",
-    "content/Tools/_index.md",
-    "content/48-Galatians/Gal.5.2-6.md",
-    "content/48-Galatians/Galatians-Notes.md",
-    "content/GDNTG/Chapter04.md",
-    "content/GDNTG/Chapter06.md",
-    "content/45-Romans/未命名 1.md",
-    "content/45-Romans/_index.md",
-    "content/GDNTG/GDNTG-TOC.md",
-    "content/GDNTG/Chapter02.md",
-    "content/Tools/AI 工具.md",
-    "content/Tools/Interlinear-Sandbox.md",
-    "content/Tools/UNICODE.md",
-    "content/Tools/Phrasing-Signs.md",
-    "content/Tools/open-source.md",
     "content/GDNTG/GDNTG1.png",
     "static/images/語言金字塔.png",
     "static/images/Pasted image 20260106152338.png",

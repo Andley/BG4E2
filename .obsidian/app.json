@@ -10,7 +10,7 @@
   "defaultViewMode": "preview",
   "readableLineLength": true,
   "strictLineBreaks": true,
-  "propertiesInDocument": "source",
+  "propertiesInDocument": "hidden",
   "tabSize": 4,
   "promptDelete": false,
   "pdfExportSettings": {

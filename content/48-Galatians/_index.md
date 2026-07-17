@@ -62,22 +62,27 @@ bookCollapseSection: true
 	- [Gal 6:17](Gal.6.17.md)
 	- [Gal 6:18](Gal.6.18.md)
 
-### 主要書目
+### 句法參考資料
+
 簡寫 | 出處
 :------:| --- 
-W<br>華 | Wallace, Daniel B. <em>Greek Grammar Beyond the Basics</em>. Grand Rapids: Zondervan, 1996. <br>華勒斯(Daniel B. Wallace)。《中級希臘文文法》。吳存仁譯。台北市：中華福音神學院，2011。
-P<br>波 | Porter, Stanley E. <em>Idioms of the Greek New Testament</em>. Second edition with corrections. Sheffield, U.K.: Sheffield Academic, 1994. <br>斯丹利‧波特(Stanley E. Porter)。《新約希臘文的慣用語》。葉雅蓮譯。台北市：中華福音神學院，2013。
-DeSilva | DeSilva, David Arthur. _Galatians: A Handbook on the Greek Text_. BHGNT. Waco, Texas: Baylor University Press, 2014.
-Gupta | Gupta, Nijay, and Jonah Sandford. _Intermediate Biblical Greek Reader: Galatians and Related Texts_. Pennington ePress, George Fox University Libraries, 2018.
+GDNTG | Köstenberger, Andreas J., Benjamin L. Merkle, and Robert L. Plummer. _Going Deeper with New Testament Greek, Revised Edition_. Revised. Nashville, TN.: B&H Academic, 2020.
+進深| 柯斯坦柏格 (Andreas J. Kostenberger)、梅克 (Merkle)、普拉默 (Plummer)著; 汪仁潔譯.。《新約希臘文進深：中級希臘文句法研究》。汪仁潔譯。南加州：美國麥種傳道會，2024。
+GGBB | Wallace, Daniel B. _Greek Grammar beyond the Basics: An Exegetical Syntax of the New Testament_. Grand Rapids, Mich: Zondervan, 1996.
+中級 |華勒斯(Daniel B. Wallace)。《中級希臘文文法》。吳存仁譯。台北市：中華福音神學院，2011。
+Idioms | Porter, Stanley E. _Idioms of the Greek New Testament_. 2nd ed. Biblical languages Greek 2. Sheffield: Sheffield Academic Press, 1999.
+慣用語 | 斯丹利‧波特(Stanley E. Porter)。《新約希臘文的慣用語》。葉雅蓮譯。台北市：中華福音神學院，2013。
+AGG | Siebenthal, Heinrich von. _Ancient Greek Grammar for the Study of the New Testament_. Oxford New York: Peter Lang, 2019.
+ATR | Robertson, A. T. _A Grammar of Greek New Testament in the Light of Historical Research_. 3rd ed. Nashville, Tenn.: Broadman Press, 1919.
+BDF | Blass, F., and A. DeBrunner. _A Greek Grammar of the New Testament and Other Early Christian Literature_. Translated by Robert W. Funk. Chicago, Ill.: University of Chicago Press, 1961.
 
-### 參考資料
+### 加拉太書參考資料
 簡寫 | 出處
 :------:| --- 
 Silva | Silva, Moisés. _Interpreting Galatians: Explorations in Exegetical Method_. 2nd ed. Grand Rapids, Mich: Baker Academic, 2001.
 Stutzman | Stutzman, Robert. _An Exegetical Summary of Galatians_. ESS. Dallas, TX.: SIL International, 2008.
-Robertson | A. T. Robertson。《活泉新約希臘文解經 (卷七) 加拉太書、以弗所書、腓立比書、歌羅西書》。詹正義編。陳一萍譯。10卷。加州：美國活泉，1991。
-Mathewson | Mathewson, David L., and Elodie Ballantine Emig. <em>Intermediate Greek Grammar: Syntax for Students of the New Testament</em>. Grand Rapids, MI: Baker Academic, 2016.
-Runge | Runge, Steven E. <em>Discourse Grammar of the Greek New Testament: A Practical Introduction for Teaching and Exegesis</em>. Peabody, MA.: Hendrickson, 2010.
+DeSilva | DeSilva, David Arthur. _Galatians: A Handbook on the Greek Text_. BHGNT. Waco, Texas: Baylor University Press, 2014.
+Gupta | Gupta, Nijay, and Jonah Sandford. _Intermediate Biblical Greek Reader: Galatians and Related Texts_. Pennington ePress, George Fox University Libraries, 2018.
 
 
 

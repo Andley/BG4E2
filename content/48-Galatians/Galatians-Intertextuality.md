@@ -1,8 +1,4 @@
----
-title: "Galatians-Intertextuality"
-date: 2026-07-04
-draft: false
----
+
 
 #### LXX Gen 12:1-3)
 
