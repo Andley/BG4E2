@@ -109,12 +109,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 268.5,
-    "collapsed": true
+    "width": 268.5
   },
   "right": {
     "id": "7cf29117bbc50740",
@@ -202,10 +202,10 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "content/GDNTG/Chapter05.md"
+                "file": "content/48-Galatians/Gal 1.1-5.md"
               },
               "icon": "lucide-file-signature",
-              "title": "註腳"
+              "title": "Footnotes"
             }
           }
         ],
@@ -223,10 +223,11 @@
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "better-footnote:Open Better Footnote": false
     }
   },
-  "active": "465840d5ed70bea4",
+  "active": "d00ff1d5805590c7",
   "lastOpenFiles": [
     "public/book.min.576c39c3e121227577999e2a092898626bc2be710436cc7c35a42ebcfb0b86c6.css",
     "public/book.min.d88902e9279661eddc6dc4088a95685c7b0220c9b59ef7ff5978e37fc8fd1ab6.css",

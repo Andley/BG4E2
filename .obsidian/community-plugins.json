@@ -1,9 +1,9 @@
 [
   "obsidian-git",
-  "obsidian-tidy-footnotes",
   "better-export-pdf",
   "automatic-table-of-contents",
   "number-headings-obsidian",
   "text-finder",
-  "show-whitespace-cm6"
+  "show-whitespace-cm6",
+  "obsidian-footnotes"
 ]
