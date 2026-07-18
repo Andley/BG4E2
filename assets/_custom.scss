@@ -89,7 +89,7 @@ ruby {
   font-size: 1rem ; 
   ruby-align:start;
   font-family:  'AndleyFont', "Noto Sans ExtraCondensed", "未來熒黑";
-  line-height: 4.5;
+  line-height: 4.5rem;
 }
 
 rt {
@@ -97,11 +97,15 @@ rt {
   font-weight:normal;
   font-family: 'AndleyFont', "Noto Sans ExtraCondensed", "未來熒黑" ;
 } 
+li ruby {
+  line-height:4rem;
+}
+
 /* ==================== 切換狀態：一行模式 (one-line) ==================== */
 body.one-line-mode :not(ruby) > ruby,
 body.one-line-mode ruby {
   display: inline !important;
-  line-height:1em;
+  line-height:1.5rem;
   width: auto !important;             /* 恢復單行時不要強制撐寬 */
 }
 body.one-line-mode :not(ruby) > ruby {

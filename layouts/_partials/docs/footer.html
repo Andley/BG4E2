@@ -50,7 +50,7 @@ document.addEventListener('DOMContentLoaded', () => {
         const meaning = rts[0].textContent.trim();
         const lemma = rts[1].textContent.trim();
         const pos = rts[2].textContent.trim();
-        ruby.setAttribute('data-hover', `${lemma} [${pos}]\n${meaning}`);
+        ruby.setAttribute('data-hover', `${meaning}\n${lemma} [${pos}]`);
       }
     } catch (e) {}
   });

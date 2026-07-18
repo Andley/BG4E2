@@ -73,5 +73,13 @@
       ],
       "key": "P"
     }
+  ],
+  "text-finder:text-finder-show-find-and-replace": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "H"
+    }
   ]
 }
