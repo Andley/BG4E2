@@ -22,26 +22,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "0b3e6b5287e75609",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "41a1af967c9c3fd5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/48-Galatians/Gal.1.1-5.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Gal.1.1-5"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -225,8 +205,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "41a1af967c9c3fd5",
+  "active": "d00ff1d5805590c7",
   "lastOpenFiles": [
+    "content/48-Galatians/Gal.1.6-9.md",
+    "content/48-Galatians/Gal.1.1-5.md",
+    "content/48-Galatians/Gal.1.10.md",
+    "content/48-Galatians/Gal.1.13-17.md",
+    "content/48-Galatians/Gal.1.18-24.md",
+    "content/48-Galatians/Gal.1.11-12.md",
+    "public/book.min.c7df1f55670e10ede704e77f6a92c7869396bf9d63413792f830656432b3c6ee.css",
+    "public/book.min.341721853f26f3a980b6cac6f7aa014b3f8208eafdee6a3bad319dba49a642af.css",
     "public/en.search.min.a013fe7e4d52316fc673e970c6726f36670fdadb265994852fef491f518a3544.js",
     "public/en.search-data.min.41cddafd6f1085efbc34bd8be54d0b1701762630d260bbe95bf65f7cfa0a5740.json",
     "content/48-Galatians/Galatians-Interlinear-4lines.md",
@@ -249,20 +237,12 @@
     "content/51-Colossians/_index.md",
     "content/47-2Corinthians/_index.md",
     "content/46-1Corinthians/_index.md",
-    "content/44-Acts/_index.md",
-    "content/43-John/_index.md",
-    "content/42-Luke/_index.md",
-    "content/41-Mark/_index.md",
-    "content/49-Ephesians/_index.md",
     "public/book.min.3d82e2f418cb02692c6ed7eeebfad4ce4cb0bf7d20139850bf3cb2c2d6b70332.css",
     "public/book.min.cccb6eea0f11045f818b4491b80709f55a427407499bed65caf45af38c62ed3d.css",
     "public/book.min.e999d6f7cea33f19a4f3004e850fec978f406b2213decfe38f12f847e7192a6f.css",
     "public/book.min.d97a870327a9593aa442398add54112e35227cdc7e6bb456754a9ada3de9a385.css",
     "public/book.min.5fa6f5e37b196603ae1f39d789749645df6c3794bd6991d784ac5041d6e1b399.css",
     "public/book.min.7d02ee987e2d54e35e2a16281248443ef49e84a2b5e20ef1934aeadb918e2de6.css",
-    "public/book.min.a3cd108652df3a8e64f2ed99d3eec63c70763036eee1d6db0c559b2c5a2569b9.css",
-    "public/book.min.456dfeb2d1a67bb7f17ed51ff5c19d2c5081a6dc90a1da6dd8855b79514ace9e.css",
-    "public/book.min.3a71061cd515f8e74bcb661124f01b34040f9721ed6c932747a4813403b12697.css",
     "content/GDNTG/GDNTG1.png",
     "static/images/語言金字塔.png",
     "static/images/Pasted image 20260106152338.png",

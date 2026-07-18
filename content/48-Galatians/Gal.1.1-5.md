@@ -1,4 +1,6 @@
-
+---
+title: "Gal 1:1-5"
+---
 #### 圖析 (Gal 1:1-5)
 - 1:1a ( <RUBY><ruby><ruby>Παῦλος<rt>Παῦλος</rt></ruby><rt>Paul</rt></ruby><rt>N-NSM-P</rt></RUBY> )S =( <RUBY><ruby><ruby><mark>ἀπόστολος°¹</mark><rt>ἀπόστολος</rt></ruby><rt>an apostle</rt></ruby><rt>N-NSM</rt></RUBY>[^1] )S
 	- 1:1b (<RUBY><ruby><ruby>οὐκ<rt>οὐ</rt></ruby><rt>not</rt></ruby><rt>PRT-N</rt></RUBY> «<RUBY><ruby><ruby>ἀπ᾽<rt>ἀπό</rt></ruby><rt>from</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ἀνθρώπων<rt>ἄνθρωπος</rt></ruby><rt>men</rt></ruby><rt>N-GPM</rt></RUBY>»[^2])°¹⮥

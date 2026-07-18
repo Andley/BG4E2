@@ -1,7 +1,5 @@
 ---
-title: "Gal.1.10"
-date: 2026-07-04
-draft: false
+title: "Gal 1:10"
 ---
 #### 圖析 (Gal 1:10)
 
