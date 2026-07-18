@@ -1,7 +1,5 @@
 ---
-title: "Gal.6.17"
-date: 2026-07-04
-draft: false
+draft: true
 ---
 #### 圖析 (Gal 1:1-5)
 

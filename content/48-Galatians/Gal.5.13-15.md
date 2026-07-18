@@ -1,7 +1,5 @@
 ---
-title: "Gal.5.13-15"
-date: 2026-07-04
-draft: false
+draft: true
 ---
 #### 圖析 (Gal 5:13-15)
 

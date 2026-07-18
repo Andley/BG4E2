@@ -1,7 +1,5 @@
 ---
-title: "Gal.3.21-22"
-date: 2026-07-04
-draft: false
+draft: true
 ---
 #### 圖析 (Gal 3:21-22)
 

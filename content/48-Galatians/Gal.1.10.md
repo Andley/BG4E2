@@ -1,5 +1,5 @@
 ---
-title: "Gal 1:10"
+draft: true
 ---
 #### 圖析 (Gal 1:10)
 

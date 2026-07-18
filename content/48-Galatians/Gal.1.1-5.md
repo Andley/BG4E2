@@ -1,5 +1,6 @@
 ---
 title: "Gal 1:1-5"
+draft: true
 ---
 #### 圖析 (Gal 1:1-5)
 - 1:1a ( <RUBY><ruby><ruby>Παῦλος<rt>Παῦλος</rt></ruby><rt>Paul</rt></ruby><rt>N-NSM-P</rt></RUBY> )S =( <RUBY><ruby><ruby><mark>ἀπόστολος°¹</mark><rt>ἀπόστολος</rt></ruby><rt>an apostle</rt></ruby><rt>N-NSM</rt></RUBY>[^1] )S

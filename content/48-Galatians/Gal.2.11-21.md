@@ -1,7 +1,5 @@
 ---
-title: "Gal.2.11-21"
-date: 2026-07-04
-draft: false
+draft: true
 ---
 <div style="display: flex; flex-wrap: wrap; gap: 2%; line-height: 1.6;">
   <div style="flex: 1; min-width: 300px;">

@@ -1,7 +1,5 @@
 ---
-title: "Gal.4.21-5.1"
-date: 2026-07-04
-draft: false
+draft: true
 ---
 #### 圖析 (Gal 4:21-5:1)
 

@@ -1,7 +1,5 @@
 ---
-title: "Gal.4.8-11"
-date: 2026-07-04
-draft: false
+draft: true
 ---
 #### 圖析 (Gal 4:8-11)
 - 4:8a <RUBY><ruby><ruby>Ἀλλὰ<rt>ἀλλά</rt></ruby><rt>But</rt></ruby><rt>CONJ</rt></RUBY> 
