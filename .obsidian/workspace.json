@@ -6,7 +6,7 @@
       {
         "id": "facb90515b9aad4a",
         "type": "tabs",
-        "dimension": 46.34146341463415,
+        "dimension": 48.010269576379976,
         "children": [
           {
             "id": "d00ff1d5805590c7",
@@ -27,7 +27,7 @@
       {
         "id": "bd8948674a7844dc",
         "type": "tabs",
-        "dimension": 53.65853658536585,
+        "dimension": 51.98973042362003,
         "children": [
           {
             "id": "f5449a731517f92e",
@@ -228,8 +228,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d00ff1d5805590c7",
+  "active": "f5449a731517f92e",
   "lastOpenFiles": [
+    "public/48-galatians/gal.1.6-10/index.html",
+    "public/48-galatians/gal.1.6-10",
+    "public/en.search.min.a000be6d1a97dd2bebd0f19890bed2a408026f336be9a9b5a5afe03474a8a9e3.js",
+    "public/en.search-data.min.555e9bdf0ec3bafe0f426baa41261b245aedbb10ac0dca6e921461f039d7a13f.json",
     "content/48-Galatians/Gal.1.1-5.md",
     "content/48-Galatians/Gal.1.6-10.md",
     "content/48-Galatians/Galatians-Style.md",
@@ -252,9 +256,6 @@
     "public/book.min.e4f86e193f618122d5e672b46b9d95c5e7d571079ffbca6b38d8c500de8d86d7.css",
     "public/book.min.fa823d620e4a946d37491f113375c2dee43fd10eda2571e25f20e5d7936d3590.css",
     "public/book.min.95f6bcbdbf00f4bdcf0c79a0ca820704eda0ec7dc0fae5bb74ca1d5374374830.css",
-    "public/book.min.4d900a3ed5d0e094305d34504129eb8887b304f5ab50d190ab104f2edfed49b3.css",
-    "public/book.min.7563d3f55f498ff45006fa176c086318583aee3d92e96ea77a30532800898107.css",
-    "public/book.min.2da5e9cfaafed9b9777aafe9d6e148024ea4d7f081cde5c6a67e2c96f7c2757f.css",
     "content/48-Galatians/Gal.6.18.md",
     "content/48-Galatians/Gal.6.17.md",
     "content/48-Galatians/Gal.6.11-16.md",
@@ -265,7 +266,6 @@
     "content/48-Galatians/Gal.5.7-12.md",
     "content/48-Galatians/Gal.5.2-6.md",
     "content/48-Galatians/Gal.4.21-5.1.md",
-    "content/48-Galatians/Gal.4.12-20.md",
     "content/GDNTG/GDNTG1.png",
     "static/images/語言金字塔.png",
     "static/images/Pasted image 20260106152338.png",

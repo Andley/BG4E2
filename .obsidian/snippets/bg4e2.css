@@ -30,8 +30,8 @@ rt {
   font-family: AndleyFont, "Noto Sans ExtraCondensed", "未來熒黑" ;
   white-space: nowrap;
 } 
-li ruby {
-  line-height:4.5em;
+li ruby{
+    line-height:4.5em;
 }
 a {text-decoration: none !important; }
 
