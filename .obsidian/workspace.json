@@ -6,7 +6,6 @@
       {
         "id": "facb90515b9aad4a",
         "type": "tabs",
-        "dimension": 48.010269576379976,
         "children": [
           {
             "id": "d00ff1d5805590c7",
@@ -14,33 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/48-Galatians/Gal.1.11-24.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Gal.1.11-24"
-            }
-          }
-        ]
-      },
-      {
-        "id": "bd8948674a7844dc",
-        "type": "tabs",
-        "dimension": 51.98973042362003,
-        "children": [
-          {
-            "id": "f5449a731517f92e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/48-Galatians/Gal.1.11-24.md",
+                "file": "content/48-Galatians/_index.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Gal.1.11-24"
+              "title": "_index"
             }
           }
         ]
@@ -115,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 268.5,
-    "collapsed": true
+    "width": 268.5
   },
   "right": {
     "id": "7cf29117bbc50740",
@@ -230,8 +207,8 @@
   },
   "active": "d00ff1d5805590c7",
   "lastOpenFiles": [
-    "content/48-Galatians/Gal.1.6-10.md",
     "content/48-Galatians/Gal.1.11-24.md",
+    "content/48-Galatians/Gal.1.6-10.md",
     "content/48-Galatians/Galatians-Interlinear-4lines.md",
     "content/48-Galatians/Gal.1.1-5.md",
     "content/48-Galatians/_index.md",
