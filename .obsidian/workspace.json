@@ -13,32 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/48-Galatians/Gal 1.1-5.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Gal 1.1-5"
-            }
-          }
-        ]
-      },
-      {
-        "id": "cb589024b7948043",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "bde009ed0f2d19db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/48-Galatians/Gal 1.1-5.md",
+                "file": "content/48-Galatians/Gal.1.1-5.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Gal 1.1-5"
+              "title": "Gal.1.1-5"
             }
           }
         ]
@@ -109,8 +89,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -228,9 +207,12 @@
   },
   "active": "d00ff1d5805590c7",
   "lastOpenFiles": [
+    "content/48-Galatians/Untitled",
+    "content/48-Galatians/_index.md",
+    "content/48-Galatians/Gal.md",
+    "content/48-Galatians/Gal 1.1-5.md",
     "content/48-Galatians/Gal.1.10.md",
     "content/48-Galatians/Gal.1.1-5.md",
-    "content/48-Galatians/Gal 1.1-5.md",
     "public/book.min.576c39c3e121227577999e2a092898626bc2be710436cc7c35a42ebcfb0b86c6.css",
     "public/book.min.d88902e9279661eddc6dc4088a95685c7b0220c9b59ef7ff5978e37fc8fd1ab6.css",
     "public/book.min.a674df05dcc8e27fe030d314e027a626aeec463c253dfca51db8439819055320.css",
@@ -242,7 +224,6 @@
     "public/book.min.2da5e9cfaafed9b9777aafe9d6e148024ea4d7f081cde5c6a67e2c96f7c2757f.css",
     "public/book.min.3fab42ebf21077c7c8abf28db795753e396b8475defb91624d0379dc2053caf5.css",
     "content/48-Galatians/Galatians-Interlinear-4lines.md",
-    "content/48-Galatians/_index.md",
     "content/48-Galatians/Gal.6.18.md",
     "content/48-Galatians/Gal.6.17.md",
     "content/48-Galatians/Gal.6.11-16.md",
@@ -262,8 +243,6 @@
     "content/48-Galatians/Gal.3.15-20.md",
     "content/48-Galatians/Gal.3.7-14.md",
     "content/48-Galatians/Gal.3.1-6.md",
-    "content/48-Galatians/Gal.2.15-21.md",
-    "content/48-Galatians/Gal.2.11-21.md",
     "content/GDNTG/GDNTG1.png",
     "static/images/語言金字塔.png",
     "static/images/Pasted image 20260106152338.png",
