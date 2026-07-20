@@ -19,10 +19,9 @@ bookCollapseSection: true
 
 ### 句法筆記
 - Salutation 
-	- [Gal 1.1-5](Gal%201.1-5.md)
+	- [Gal 1.1-5](Gal.1.1-5.md)
 - There is No Other Gospel
-	- [Gal 1:6-9](Gal.1.6-9.md)
-	- [Gal 1:10](Gal.1.10.md)
+	- [Gal 1:6-10](Gal.1.6-10.md)
 - How Paul Became an Apostle
 	- [Gal 1:11-12](Gal.1.11-12.md)
 	- [Gal 1:13-17](Gal.1.13-17.md)
