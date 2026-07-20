@@ -103,6 +103,11 @@ em{
 span.cm-tag, span.cm-attribute, span.cm-string {
   color: var(--text-tag);
   font-family: "Noto Sans ExtraCondensed", "未來熒黑" ;
+  font-size: 0.8em;
 }
 
+span.cm-hmd-frontmatter.cm-string {
+  color: var(--text-muted);
+  font-size: 1em;
+}
 

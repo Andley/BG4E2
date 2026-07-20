@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/48-Galatians/Gal.1.6-10.md",
+                "file": "content/48-Galatians/Gal.1.11-24.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Gal.1.6-10"
+              "title": "Gal.1.11-24"
             }
           }
         ]
@@ -35,12 +35,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/48-Galatians/Gal.1.6-10.md",
+                "file": "content/48-Galatians/Gal.1.11-24.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Gal.1.6-10"
+              "title": "Gal.1.11-24"
             }
           }
         ]
@@ -228,18 +228,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f5449a731517f92e",
+  "active": "d00ff1d5805590c7",
   "lastOpenFiles": [
+    "content/48-Galatians/Gal.1.6-10.md",
+    "content/48-Galatians/Gal.1.11-24.md",
+    "content/48-Galatians/Galatians-Interlinear-4lines.md",
+    "content/48-Galatians/Gal.1.1-5.md",
+    "content/48-Galatians/_index.md",
     "public/48-galatians/gal.1.6-10/index.html",
     "public/48-galatians/gal.1.6-10",
     "public/en.search.min.a000be6d1a97dd2bebd0f19890bed2a408026f336be9a9b5a5afe03474a8a9e3.js",
     "public/en.search-data.min.555e9bdf0ec3bafe0f426baa41261b245aedbb10ac0dca6e921461f039d7a13f.json",
-    "content/48-Galatians/Gal.1.1-5.md",
-    "content/48-Galatians/Gal.1.6-10.md",
     "content/48-Galatians/Galatians-Style.md",
     "content/48-Galatians/Galatians-Vocabulary.md",
-    "content/48-Galatians/_index.md",
-    "content/48-Galatians/Galatians-Interlinear-4lines.md",
     "content/48-Galatians/Galatians-Intertextuality.md",
     "content/48-Galatians/Galatians-Interlinear-3lines.md",
     "content/48-Galatians/Galatians-Interlinear-2lines.md",
@@ -255,7 +256,6 @@
     "public/book.min.a674df05dcc8e27fe030d314e027a626aeec463c253dfca51db8439819055320.css",
     "public/book.min.e4f86e193f618122d5e672b46b9d95c5e7d571079ffbca6b38d8c500de8d86d7.css",
     "public/book.min.fa823d620e4a946d37491f113375c2dee43fd10eda2571e25f20e5d7936d3590.css",
-    "public/book.min.95f6bcbdbf00f4bdcf0c79a0ca820704eda0ec7dc0fae5bb74ca1d5374374830.css",
     "content/48-Galatians/Gal.6.18.md",
     "content/48-Galatians/Gal.6.17.md",
     "content/48-Galatians/Gal.6.11-16.md",
