@@ -1,4 +1,4 @@
-# 新約希臘文句法分析技能
+# 全民希臘文（BG4E）新約句法分析 (2026-07-21)
 
 ## 目的
 
@@ -8,7 +8,7 @@
 
 ### 第一步：確立經文文本
 
-1. 使用 NA28/UBS5/BHS/BHQ/LXX-Ralph 標準版本引出經文全文，不可自行改動或省略字詞。
+1. 使用 NA28/UBS5 標準版本引出經文全文，不可自行改動或省略字詞。
 2. 提供該節的中英譯本對照（至少 CUV 與 NASB，若使用者慣用其他譯本則替換／增列），並標明譯本名稱。
 3. 若經文有重大異文（textual variant）爭議且影響句法判斷，需標明【學界爭議中：主要立場見下方】並列出主要抄本證據（切勿臆造書卷代碼）。
 
@@ -32,9 +32,11 @@
 | **P** | Predicator | 述語 | 該子句的動詞形式（含限定動詞與非限定動詞） |
 | **C** | Complement | 補語 | 「完成」述語語意所需的成分，常見為直接/間接受詞 |
 | **A** | Adjunct | 狀語 | 修飾述語、標示動作相關情境的成分，常見為介系詞片語、副詞片語 |
+| **V** | Address | 稱呼 | 獨立於 SPCA 之外
+| **cj** | Conjunction | 子句連接詞 | 連接上文子句，常見為連接詞、連接詞片語、介系詞片語、副詞片語
 
 **標示原則：**
-- 先完成 (A) 子句層級分類，再進入 (B) 逐子句標示 S/P/C/A。
+- 先完成 (A) 子句層級分類，再進入 (B) 逐子句標示 S/P/C/A/V/cj。
 - 內嵌子句（分詞/不定詞子句）須註明其在上層子句中所嵌入/修飾的具體位置（例如「修飾上層 C」「作為上層 A 的一部分」）。
 - 動詞的及物系統（transitivity）判斷依循 Halliday 之過程—參與者—情境三分：S/C 對應「參與者」（participants），P 對應「過程」（process），A 對應「情境」（circumstances）。
 - 完成 OpenText 子句/功能標示後，才進入〈第三步：逐項文法分析〉，以傳統文法術語（依前述五本文法書優先順序）補充解釋每個成分的文法性質（如格位功能、分詞用法類別等）——**兩套系統並用，互為補充，不互相取代**：OpenText 模型負責「結構定位」，五本文法書負責「文法術語與範疇命名」。
@@ -43,17 +45,17 @@
 
 對每個句法成分（含以下但不限於）逐一分析：
 
-- **動詞 (verb)、分詞（participle_、不定詞（infinitive）**：完整詞形分析，依照「**[Idioms]** Porter, Stanley E. *Idioms of the Greek New Testament*. 2nd ed. Biblical Languages: Greek 2. Sheffield: Sheffield Academic Press, 1999.」動詞觀點理論，說明動詞觀點（verbal aspect）的意涵
-- **格（case）**：N (主格 (Nominative)、直接受格 (Accusative)、間接受格 (Dative)、所有格 (Genitive) 完整詞形分析，以傳統文法術語（依前述五本文法書優先順序）解釋用法類別及功能
+- **動詞 (verb)、分詞（participle_、不定詞（infinitive）**：完整詞形分析，依照「Porter, Stanley E. *Idioms of the Greek New Testament*. 2nd ed. Biblical Languages: Greek 2. Sheffield: Sheffield Academic Press, 1999.」動詞觀點理論，說明動詞觀點（verbal aspect）的意涵
+- **格（case）**：N（主格 (Nominative）、直接受格（Accusative）、間接受格（Dative）、所有格（Genitive）完整詞形分析，以傳統文法術語（依前述五本文法書優先順序）解釋用法類別及功能
 - **介系詞片語**：介系詞+格的具體語意功能（如 κατά + acc. = 標準/依照）
-- **子句連接詞**：ὅτι/ἵνα/ὡς/ἐάν 等的功能判斷（宣告性 declarative、原因性 causal、目的性 purpose、結果性 result 等），並說明判斷依據
-- **特殊句法現象**：若偵測到獨立所有格（Genitive Absolute）、獨立間接受格（Dative Absolute）、獨立直接受格（Accusative Absolute）、TSKS（Sharp Rule/Construction）、倒裝（Anastrophe）、倒置（Hyperbaton）、預期（Prolepsis）、插入（Parenthesis）、破格（anacoluthon）等結構時，需明確指出並簡述辨識依據
+- **子句連接詞**：區分對等、從屬連接詞，說明連接詞的功能以及判斷依據
+- **特殊句法現象**：若偵測到獨立 (Absolute Construction，例如：Genitive/Accusative/Dative  Absolute）、TSKS（Sharp Rule/Construction）、倒裝（Anastrophe）、倒置（Hyperbaton）、預期（Prolepsis）、插入（Parenthesis）、破格（anacoluthon）等結構時，需明確指出並簡述辨識依據
 
 所有以上分類與命名，一律依〈文法類別／專有名詞來源優先順序〉一節指定之五本文法書順序選用術語與標註來源縮寫。
 
 ### 第四步：句法樹狀圖
 
-以純文字樹狀圖（ASCII tree）呈現整體句法階層，須同時反映：(a) 第二步已標示的子句層級（主要／從屬／內嵌）,(b) 各子句內部的 S/P/C/A 功能標記。範例：
+以純文字樹狀圖（ASCII tree）呈現整體句法階層，須同時反映：(a) 第二步已標示的子句層級（主要／從屬／內嵌）,(b) 各子句內部的 S/P/C/A/V/cj 功能標記。範例：
 
 ```
 [主要子句]
@@ -66,7 +68,7 @@
           οὐκ ἔστιν(P) κατὰ ἄνθρωπον(C)
 ```
 
-若句子過長/嵌套過深，可分段呈現（先給主要子句層級全貌，再逐一展開各從屬/內嵌子句內部的 S/P/C/A 細節）。
+若句子過長/嵌套過深，可分段呈現（先給主要子句層級全貌，再逐一展開各從屬/內嵌子句內部的 S/P/C/A/V/cj 細節）。
 
 ### 第五步：平行經文佐證（Parallel Passage Support）
 
@@ -149,3 +151,4 @@
 - 若使用者只問單一文法點（如「這個分詞是什麼用法？」），不需套用完整六步驟，直接精準回答並仍遵守三層標籤與留白原則。
 - 若使用者要求比較多個經文的句法（如 TSKS 全文檢索），改用表格彙整每處出處＋結構類型＋知識地位標籤，而非逐節套用完整範本。
 - 遇到已知使用者過去糾正過的錯誤模式（如虛構頁碼、混淆學者立場、未標記知識地位），此技能的存在本身就是防止重蹈覆轍的檢查清單——分析完成後，自我核對是否每一條都符合〈學術誠信協議〉五項要求。
+- 若使用者詢問新約以外經文時，直接輸出「【不在新約範圍，無法回答】」
