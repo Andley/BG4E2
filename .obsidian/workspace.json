@@ -6,56 +6,41 @@
       {
         "id": "facb90515b9aad4a",
         "type": "tabs",
-        "dimension": 42.61874197689345,
+        "dimension": 54.289732770745424,
         "children": [
           {
-            "id": "82510841c28e8708",
+            "id": "87043f2eda84da67",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/48-Galatians/Galatians-Interlinear-4lines.md",
+                "file": "content/48-Galatians/Gal.1.6-10.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Galatians-Interlinear-4lines"
-            }
-          },
-          {
-            "id": "40922c1a3049aa83",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/48-Galatians/Gal.1.11-24.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Gal.1.11-24"
+              "title": "Gal.1.6-10"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
-        "id": "d9023fdfb83450a1",
+        "id": "efcc87c995c3f35c",
         "type": "tabs",
-        "dimension": 57.381258023106554,
+        "dimension": 45.71026722925457,
         "children": [
           {
-            "id": "c1842bd4fcf3c11a",
+            "id": "ed0f199c256dc98f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/48-Galatians/Gal.1.11-24.md",
+                "file": "content/48-Galatians/Gal.1.6-10.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Gal.1.11-24"
+              "title": "Gal.1.6-10"
             }
           }
         ]
@@ -105,7 +90,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "anacol",
+                "query": "符號",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -243,21 +228,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "40922c1a3049aa83",
+  "active": "ed0f199c256dc98f",
   "lastOpenFiles": [
+    "content/48-Galatians/Gal.1.1-5.md",
+    "content/48-Galatians/Gal.1.11-24.md",
+    "content/48-Galatians/_index.md",
+    "content/48-Galatians/Gal.1.6-10.md",
     "content/48-Galatians/Galatians-Interlinear-4lines.md",
+    "content/Tools/Phrasing-Signs.md",
+    "content/_index.md",
     "content/48-Galatians/Galatians-Interlinear-3lines.md",
     "content/48-Galatians/Galatians-Interlinear-2lines.md",
     "content/48-Galatians/Galatians-Interlinear-2.5lines.md",
-    "content/48-Galatians/Gal.1.11-24.md",
-    "content/48-Galatians/_index.md",
-    "content/_index.md",
     "content/48-Galatians/全民希臘文（BG4E）新約句法分析.md",
     "content/Mounce-Syntax-Summary.md",
     "content/48-Galatians/Galatians-Style.md",
     "content/62-1John/123John-Clause.md",
-    "content/48-Galatians/Gal.1.6-10.md",
-    "content/48-Galatians/Gal.1.1-5.md",
     "public/48-galatians/gal.1.6-10/index.html",
     "public/48-galatians/gal.1.6-10",
     "public/en.search.min.a000be6d1a97dd2bebd0f19890bed2a408026f336be9a9b5a5afe03474a8a9e3.js",
@@ -280,7 +266,6 @@
     "content/48-Galatians/Gal.6.11-16.md",
     "content/48-Galatians/Gal.6.1-10.md",
     "content/48-Galatians/Gal.5.22-26.md",
-    "content/48-Galatians/Gal.5.16-21.md",
     "content/GDNTG/GDNTG1.png",
     "static/images/語言金字塔.png",
     "static/images/Pasted image 20260106152338.png",

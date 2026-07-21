@@ -1,25 +1,26 @@
 ---
-title: "Phrasing-Signs"
-date: 2026-07-04
+title: "圖析符號說明"
 draft: false
 ---
 
-## 圖析符號說明
+# 圖析符號說明
 
 
 形式 (form) 的符號  | 含意 
 :---: | :----: 
-<mark class='verb'>雙層底線</mark> | 動詞 
-<mark class='ptc'>單一底線</mark> | 分詞 
-<mark class='inf'>虛線底線</mark> | 不定詞 
-xxx ⁞ yyy | 詞形代碼有兩種可能
+<span class='verb'>紅色字體希臘文</span> | 動詞 
+<span class='ptc'>藍色字體希臘文</span> | 分詞 
+<span class='inf'>綠色字體希臘文</span> | 不定詞 
+xxx⁞yyy | 詞形代碼有兩種可能
 
 結構 (structure) 的符號  | 含意 
 :---: | :----: 
- {... [... ( ... < ... > ... ) ...] ...} | 子句、片語裡的大中小括弧 
-(...)⦇ ... ⦈(...)</br>{...}⦇、⦈{...}| 片語 or 子句的前半段、後半段 </br>(用於出現 hyperbaton 倒置的情況)
-⸉⸊ | 調換字序 (word order) 之後的新位置
-⸉...⸊ | 調換字序 (word order) 之前的原本位置
+ ( ...... ) | 主要／從屬子句 (Primary/Subordinate Clause) 的構成元素 
+ ⟦ ...... ⟧ | 內嵌子句 (Embedded Clause) 的邊界
+ ⟨ ...... ⟩ | 內嵌子句的構成元素 
+ « ... »、‹ ... › | 子句構成元素內的詞組 (word group)
+⦇ ... ⦈ |  構成元素倒置 (hyperbaton) 的前半段、後半段
+⸉⸊ | 後置詞調換位置
 
 
 功能 (function) 的符號  | 含意
