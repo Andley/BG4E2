@@ -6,9 +6,24 @@
       {
         "id": "facb90515b9aad4a",
         "type": "tabs",
+        "dimension": 42.61874197689345,
         "children": [
           {
-            "id": "d00ff1d5805590c7",
+            "id": "82510841c28e8708",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/48-Galatians/Galatians-Interlinear-4lines.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Galatians-Interlinear-4lines"
+            }
+          },
+          {
+            "id": "40922c1a3049aa83",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,20 +35,6 @@
               "icon": "lucide-file",
               "title": "Gal.1.11-24"
             }
-          },
-          {
-            "id": "82510841c28e8708",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/_index.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "_index"
-            }
           }
         ],
         "currentTab": 1
@@ -41,6 +42,7 @@
       {
         "id": "d9023fdfb83450a1",
         "type": "tabs",
+        "dimension": 57.381258023106554,
         "children": [
           {
             "id": "c1842bd4fcf3c11a",
@@ -48,12 +50,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/48-Galatians/Gal.1.11-24.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "_index"
+              "title": "Gal.1.11-24"
             }
           }
         ]
@@ -128,7 +130,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 268.5
+    "width": 268.5,
+    "collapsed": true
   },
   "right": {
     "id": "7cf29117bbc50740",
@@ -240,17 +243,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c1842bd4fcf3c11a",
+  "active": "40922c1a3049aa83",
   "lastOpenFiles": [
-    "content/48-Galatians/全民希臘文（BG4E）新約句法分析.md",
+    "content/48-Galatians/Galatians-Interlinear-4lines.md",
+    "content/48-Galatians/Galatians-Interlinear-3lines.md",
+    "content/48-Galatians/Galatians-Interlinear-2lines.md",
+    "content/48-Galatians/Galatians-Interlinear-2.5lines.md",
+    "content/48-Galatians/Gal.1.11-24.md",
+    "content/48-Galatians/_index.md",
     "content/_index.md",
+    "content/48-Galatians/全民希臘文（BG4E）新約句法分析.md",
     "content/Mounce-Syntax-Summary.md",
     "content/48-Galatians/Galatians-Style.md",
     "content/62-1John/123John-Clause.md",
-    "content/48-Galatians/Gal.1.11-24.md",
-    "content/48-Galatians/_index.md",
     "content/48-Galatians/Gal.1.6-10.md",
-    "content/48-Galatians/Galatians-Interlinear-4lines.md",
     "content/48-Galatians/Gal.1.1-5.md",
     "public/48-galatians/gal.1.6-10/index.html",
     "public/48-galatians/gal.1.6-10",
@@ -258,10 +264,7 @@
     "public/en.search-data.min.555e9bdf0ec3bafe0f426baa41261b245aedbb10ac0dca6e921461f039d7a13f.json",
     "content/48-Galatians/Galatians-Vocabulary.md",
     "content/48-Galatians/Galatians-Intertextuality.md",
-    "content/48-Galatians/Galatians-Interlinear-3lines.md",
-    "content/48-Galatians/Galatians-Interlinear-2lines.md",
     "content/48-Galatians/Galatians-Clause.md",
-    "content/48-Galatians/Galatians-Interlinear-2.5lines.md",
     "content/48-Galatians/Gal.1.6-9.md",
     "content/48-Galatians/Untitled",
     "content/48-Galatians/Gal.md",
