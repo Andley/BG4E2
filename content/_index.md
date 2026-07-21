@@ -1,6 +1,9 @@
 # 全民希臘文 Biblical Greek for Everyone
 
-
+- [全民希臘文（BG4E）新約句法分析 AI 機器人 (2026-07-21)
+](
+https://udify.app/chat/6z5JUsLZJh8JYHM9
+https://udify.app/chat/eoOlhcmUXoPQksXJ
 - [Apostles' Creed](Memorize/Apostles-Creed.md) 
 - [Lord's Prayer](Memorize/Lords-Prayer.md) 
 - [慣用語](Semantics/Idioms.md)

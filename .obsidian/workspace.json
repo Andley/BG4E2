@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/48-Galatians/全民希臘文（BG4E）新約句法分析.md",
+                "file": "content/_index.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "全民希臘文（BG4E）新約句法分析"
+              "title": "_index"
             }
           }
         ],
@@ -48,12 +48,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/48-Galatians/全民希臘文（BG4E）新約句法分析.md",
+                "file": "content/_index.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "全民希臘文（BG4E）新約句法分析"
+              "title": "_index"
             }
           }
         ]
@@ -124,13 +124,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 268.5,
-    "collapsed": true
+    "width": 268.5
   },
   "right": {
     "id": "7cf29117bbc50740",
@@ -242,12 +240,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "82510841c28e8708",
+  "active": "c1842bd4fcf3c11a",
   "lastOpenFiles": [
+    "content/48-Galatians/全民希臘文（BG4E）新約句法分析.md",
+    "content/_index.md",
     "content/Mounce-Syntax-Summary.md",
     "content/48-Galatians/Galatians-Style.md",
     "content/62-1John/123John-Clause.md",
-    "content/48-Galatians/全民希臘文（BG4E）新約句法分析.md",
     "content/48-Galatians/Gal.1.11-24.md",
     "content/48-Galatians/_index.md",
     "content/48-Galatians/Gal.1.6-10.md",
@@ -279,7 +278,6 @@
     "content/48-Galatians/Gal.6.1-10.md",
     "content/48-Galatians/Gal.5.22-26.md",
     "content/48-Galatians/Gal.5.16-21.md",
-    "content/48-Galatians/Gal.5.13-15.md",
     "content/GDNTG/GDNTG1.png",
     "static/images/語言金字塔.png",
     "static/images/Pasted image 20260106152338.png",
