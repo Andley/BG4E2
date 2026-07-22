@@ -111,3 +111,7 @@ span.cm-hmd-frontmatter.cm-string {
   font-size: 1em;
 }
 
+.cm-embed-block, .cm-line .your-custom-class {
+    display: flex !important;
+    flex-direction: row !important;
+}

@@ -1,5 +1,5 @@
 {
-  "disablePluginStyles": true,
+  "disablePluginStyles": false,
   "enabled": true,
   "showLineEndings": true,
   "showHardLineBreaks": true,

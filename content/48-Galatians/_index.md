@@ -25,7 +25,7 @@ bookCollapseSection: true
 - How Paul Became an Apostle
 	- [Gal 1:11-24](Gal.1.11-24.md)
 - Paul Accepted by the Other Apostles
-	- [Gal 2:1-10](Gal.2.1-5.md)
+	- [Gal 2:1-10](Gal.2.1-10.md)
 - Paul Rebukes Peter at Antioch
 	- [Gal 2:11-14](Gal.2.11-14.md)
 - Jews, like Gentiles, are Saved by Faith

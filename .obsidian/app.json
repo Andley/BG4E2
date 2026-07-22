@@ -9,7 +9,7 @@
   "attachmentFolderPath": "./",
   "defaultViewMode": "preview",
   "readableLineLength": false,
-  "strictLineBreaks": true,
+  "strictLineBreaks": false,
   "propertiesInDocument": "hidden",
   "tabSize": 4,
   "promptDelete": false,
