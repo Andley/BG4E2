@@ -21,8 +21,23 @@
               "icon": "lucide-file",
               "title": "Gal.2.11-14"
             }
+          },
+          {
+            "id": "266bf2503ca0a1eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/48-Galatians/συνυποκρίνομαι + 間接受格：補語判定.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "συνυποκρίνομαι + 間接受格：補語判定"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "468af9ea2cde7f05",
@@ -228,52 +243,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "floating": {
-    "id": "283ef3bb224df0a8",
-    "type": "floating",
-    "children": [
-      {
-        "id": "81713e070348fade",
-        "type": "window",
-        "children": [
-          {
-            "id": "bf947a55bae94b6b",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "c8dfa26ddc220eb1",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "content/Tools/Phrasing-Signs.md",
-                    "mode": "preview",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "Phrasing-Signs"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 102,
-        "y": 0,
-        "width": 1025,
-        "height": 730,
-        "maximize": true,
-        "zoom": 2
-      }
-    ]
-  },
-  "active": "1592615c6531d90f",
+  "active": "266bf2503ca0a1eb",
   "lastOpenFiles": [
+    "content/48-Galatians/Gal.2.11-14.md",
+    "content/48-Galatians/συνυποκρίνομαι + 間接受格：補語判定.md",
+    "content/Tools/Phrasing-Signs.md",
     "content/48-Galatians/Galatians-Interlinear-4lines.md",
     "content/48-Galatians/_index.md",
-    "content/48-Galatians/Gal.2.11-14.md",
     "content/48-Galatians/Gal.2.1-10.md",
-    "content/Tools/Phrasing-Signs.md",
     "content/48-Galatians/Gal.1.11-24.md",
     "content/48-Galatians/Gal.1.6-10.md",
     "content/48-Galatians/Gal.1.1-5.md",
@@ -304,7 +281,6 @@
     "public/book.min.fa823d620e4a946d37491f113375c2dee43fd10eda2571e25f20e5d7936d3590.css",
     "content/48-Galatians/Gal.6.18.md",
     "content/48-Galatians/Gal.6.17.md",
-    "content/48-Galatians/Gal.6.11-16.md",
     "content/GDNTG/GDNTG1.png",
     "static/images/語言金字塔.png",
     "static/images/Pasted image 20260106152338.png",
