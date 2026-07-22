@@ -6,7 +6,7 @@
       {
         "id": "c00ad3b15bedf102",
         "type": "tabs",
-        "dimension": 42.05344585091421,
+        "dimension": 44.72573839662447,
         "children": [
           {
             "id": "7c9621da8dd9437d",
@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/48-Galatians/Gal.2.1-10.md",
+                "file": "content/48-Galatians/Gal.2.11-14.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Gal.2.1-10"
+              "title": "Gal.2.11-14"
             }
           }
         ]
@@ -27,7 +27,7 @@
       {
         "id": "468af9ea2cde7f05",
         "type": "tabs",
-        "dimension": 57.94655414908579,
+        "dimension": 55.27426160337553,
         "children": [
           {
             "id": "1592615c6531d90f",
@@ -35,12 +35,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/48-Galatians/Gal.2.1-10.md",
+                "file": "content/48-Galatians/Gal.2.11-14.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Gal.2.1-10"
+              "title": "Gal.2.11-14"
             }
           }
         ]
@@ -267,12 +267,13 @@
       }
     ]
   },
-  "active": "7c9621da8dd9437d",
+  "active": "1592615c6531d90f",
   "lastOpenFiles": [
-    "content/Tools/Phrasing-Signs.md",
-    "content/48-Galatians/Gal.2.1-10.md",
-    "content/48-Galatians/_index.md",
     "content/48-Galatians/Galatians-Interlinear-4lines.md",
+    "content/48-Galatians/_index.md",
+    "content/48-Galatians/Gal.2.11-14.md",
+    "content/48-Galatians/Gal.2.1-10.md",
+    "content/Tools/Phrasing-Signs.md",
     "content/48-Galatians/Gal.1.11-24.md",
     "content/48-Galatians/Gal.1.6-10.md",
     "content/48-Galatians/Gal.1.1-5.md",
@@ -304,7 +305,6 @@
     "content/48-Galatians/Gal.6.18.md",
     "content/48-Galatians/Gal.6.17.md",
     "content/48-Galatians/Gal.6.11-16.md",
-    "content/48-Galatians/Gal.6.1-10.md",
     "content/GDNTG/GDNTG1.png",
     "static/images/語言金字塔.png",
     "static/images/Pasted image 20260106152338.png",
