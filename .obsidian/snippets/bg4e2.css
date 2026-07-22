@@ -110,8 +110,3 @@ span.cm-hmd-frontmatter.cm-string {
   color: var(--text-muted);
   font-size: 1em;
 }
-
-.cm-embed-block, .cm-line .your-custom-class {
-    display: flex !important;
-    flex-direction: row !important;
-}

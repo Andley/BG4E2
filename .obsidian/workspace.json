@@ -6,7 +6,6 @@
       {
         "id": "c00ad3b15bedf102",
         "type": "tabs",
-        "dimension": 44.72573839662447,
         "children": [
           {
             "id": "7c9621da8dd9437d",
@@ -28,37 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/48-Galatians/συνυποκρίνομαι + 間接受格：補語判定.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "συνυποκρίνομαι + 間接受格：補語判定"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "468af9ea2cde7f05",
-        "type": "tabs",
-        "dimension": 55.27426160337553,
-        "children": [
-          {
-            "id": "1592615c6531d90f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/48-Galatians/Gal.2.11-14.md",
+                "file": "content/48-Galatians/全民希臘文（BG4E）新約句法分析.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Gal.2.11-14"
+              "title": "全民希臘文（BG4E）新約句法分析"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -130,8 +108,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "7cf29117bbc50740",
@@ -245,8 +222,8 @@
   },
   "active": "266bf2503ca0a1eb",
   "lastOpenFiles": [
+    "content/48-Galatians/間接受格（Dative）：狀語（Adjunct）vs. 補語（Complement）判準.md",
     "content/48-Galatians/Gal.2.11-14.md",
-    "content/48-Galatians/συνυποκρίνομαι + 間接受格：補語判定.md",
     "content/Tools/Phrasing-Signs.md",
     "content/48-Galatians/Galatians-Interlinear-4lines.md",
     "content/48-Galatians/_index.md",
