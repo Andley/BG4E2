@@ -37,6 +37,26 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "cb3b4e5bcb781a68",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2f7f2d5578aedd2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/48-Galatians/間接受格（Dative）：狀語（Adjunct）vs. 補語（Complement）判準.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "間接受格（Dative）：狀語（Adjunct）vs. 補語（Complement）判準"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -220,8 +240,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "266bf2503ca0a1eb",
+  "active": "2f7f2d5578aedd2a",
   "lastOpenFiles": [
+    "content/48-Galatians/全民希臘文（BG4E）新約句法分析.md",
+    "content/48-Galatians/Gal.2.11-14.md",
+    "content/48-Galatians/間接受格（Dative）：狀語（Adjunct）vs. 補語（Complement）判準.md",
+    "content/48-Galatians/Gal.1.1-5.md",
+    "content/48-Galatians/Galatians-Interlinear-4lines.md",
+    "content/48-Galatians/Galatians-Interlinear-3lines.md",
+    "content/48-Galatians/Galatians-Interlinear-2lines.md",
+    "content/48-Galatians/Galatians-Interlinear-2.5lines.md",
+    "content/48-Galatians/Galatians-Clause.md",
     "public/48-galatians/全民希臘文bg4e新約句法分析/index.html",
     "public/48-galatians/全民希臘文bg4e新約句法分析",
     "public/48-galatians/間接受格dative狀語adjunctvs.-補語complement判準/index.html",
@@ -234,25 +263,15 @@
     "public/en.search-data.min.5fbb57a0eca4c6089723fb9c0dc3187669109e0313e32364e1121f7d171e808e.json",
     "content/48-Galatians/Gal.2.1-10.md",
     "content/48-Galatians/Gal.1.11-24.md",
-    "content/48-Galatians/Gal.2.11-14.md",
-    "content/48-Galatians/全民希臘文（BG4E）新約句法分析.md",
-    "content/48-Galatians/間接受格（Dative）：狀語（Adjunct）vs. 補語（Complement）判準.md",
     "content/Tools/Phrasing-Signs.md",
-    "content/48-Galatians/Galatians-Interlinear-4lines.md",
     "content/48-Galatians/_index.md",
     "content/48-Galatians/Gal.1.6-10.md",
-    "content/48-Galatians/Gal.1.1-5.md",
     "content/_index.md",
-    "content/48-Galatians/Galatians-Interlinear-3lines.md",
-    "content/48-Galatians/Galatians-Interlinear-2lines.md",
-    "content/48-Galatians/Galatians-Interlinear-2.5lines.md",
     "content/Mounce-Syntax-Summary.md",
     "content/48-Galatians/Galatians-Style.md",
     "content/62-1John/123John-Clause.md",
-    "public/48-galatians/gal.1.6-10/index.html",
     "content/48-Galatians/Galatians-Vocabulary.md",
     "content/48-Galatians/Galatians-Intertextuality.md",
-    "content/48-Galatians/Galatians-Clause.md",
     "content/48-Galatians/Gal.1.6-9.md",
     "content/48-Galatians/Gal.md",
     "content/48-Galatians/Gal 1.1-5.md",

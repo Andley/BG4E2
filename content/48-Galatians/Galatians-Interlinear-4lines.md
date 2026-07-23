@@ -1,3 +1,6 @@
+---
+title: "加拉太書  (四行 Interlinear)"
+---
 
 # ΠΡΟΣ ΓΑΛΑΤΑΣ 加拉太書  (四行 Interlinear)
 
