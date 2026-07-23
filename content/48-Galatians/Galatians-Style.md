@@ -1,8 +1,8 @@
 ---
-title: "Galatians-Style"
-date: 2026-07-04
-draft: false
+title: "加拉太書風格特色"
+weight: 04
 ---
+
 ### (1) 語帶激憤
 #### (1a) 破格 (anacoluthon)
 (1b) 大字

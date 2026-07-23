@@ -21,3 +21,16 @@ title: "Gal 1:6-10"
 - 1:10b <RUBY><ruby><ruby>ἢ<rt>還是 Or</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02228&m='>ἤ</a></rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby><span class='verb'>ζητῶ</span><rt>我尋求 do I seek</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02212&m='>ζητέω</a></rt></ruby><rt>V-PAI-1S</rt></RUBY>)P (<RUBY><ruby><ruby>ἀνθρώποις<rt>人 men</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=00444&m='>ἄνθρωπος</a></rt></ruby><rt>N-DPM</rt></RUBY> <RUBY><ruby><ruby><span class='inf'>ἀρέσκειν</span><rt>討喜歡 to please?</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=00700&m='>ἀρέσκω</a></rt></ruby><rt>V-PAN</rt></RUBY>)C <span class='punctuation'>;</span> 
 	- 1:10c <RUBY><ruby><ruby>εἰ<rt>如果 For if</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01487&m='>εἰ</a></rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ἔτι<rt>仍舊 yet</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02089&m='>ἔτι</a></rt></ruby><rt>ADV</rt></RUBY>)A (<RUBY><ruby><ruby>ἀνθρώποις<rt>人 men</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=00444&m='>ἄνθρωπος</a></rt></ruby><rt>N-DPM</rt></RUBY>)C (<RUBY><ruby><ruby><span class='verb'>ἤρεσκον</span><rt>我討喜歡 I were pleasing</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=00700&m='>ἀρέσκω</a></rt></ruby><rt>V-IAI-1S</rt></RUBY>)P <span class='punctuation'>,</span> 
 - 1:10d (<RUBY><ruby><ruby>Χριστοῦ<rt>基督 of Christ</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=05547&m='>Χριστός</a></rt></ruby><rt>N-GSM</rt></RUBY> <RUBY><ruby><ruby>δοῦλος<rt>僕人 a servant</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01401&m='>δοῦλος</a></rt></ruby><rt>N-NSM</rt></RUBY>)C <RUBY><ruby><ruby>οὐκ<rt>不 not</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03756&m='>οὐ</a></rt></ruby><rt>PRT-N</rt></RUBY> (<RUBY><ruby><ruby>ἂν<rt>就 -</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=00302&m='>ἄν</a></rt></ruby><rt>PRT</rt></RUBY>)A (<RUBY><ruby><ruby><span class='verb'>ἤμην</span><rt>我是 I would be</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01510&m='>εἰμί</a></rt></ruby><rt>V-IMI-1S</rt></RUBY>)P <span class='punctuation'>.</span>
+
+
+## 句法筆記 (Syntax Notes)
+
+
+## 語意圖析 (Semantic Diagram)
+
+
+
+
+
+---
+[加拉太書希臘文筆記 ↵](Galatians-Notes.md)

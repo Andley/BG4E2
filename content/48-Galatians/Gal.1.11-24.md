@@ -40,3 +40,18 @@ title: "Gal 1:11-24"
 	- 1:23b <RUBY><ruby><ruby>ὅτι<rt>- that</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03754&m='>ὅτι</a></rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>Ὁ<rt>那 the [one]</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></rt></ruby><rt>T-NSM</rt></RUBY> ⟦⟨<RUBY><ruby><ruby><span class='ptc'>διώκων</span><rt>逼迫 persecuting</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01377&m='>διώκω</a></rt></ruby><rt>V-PAP-NSM</rt></RUBY>⟩p ⟨<RUBY><ruby><ruby>ἡμᾶς<rt>我們 us</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01473&m='>ἐγώ</a></rt></ruby><rt>P-1AP</rt></RUBY>⟩c ⟨<RUBY><ruby><ruby>ποτε<rt>從前 formerly</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=04218&m='>ποτέ</a></rt></ruby><rt>PRT</rt></RUBY>⟩a⟧)S (<RUBY><ruby><ruby>νῦν<rt>現在 now</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03568&m='>νῦν</a></rt></ruby><rt>ADV</rt></RUBY>)A (<RUBY><ruby><ruby><span class='verb'>εὐαγγελίζεται</span><rt>傳揚 is preaching</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02097&m='>εὐαγγελίζομαι</a></rt></ruby><rt>V-PEI-3S</rt></RUBY>)P (<RUBY><ruby><ruby>τὴν<rt>- the</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></rt></ruby><rt>T-ASF</rt></RUBY> <RUBY><ruby><ruby>πίστιν<rt>信仰 faith</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=04102&m='>πίστις</a></rt></ruby><rt>N-ASF</rt></RUBY>°¹)C 
 		- 1:23c (<RUBY><ruby><ruby>ἥν<rt>所 which</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03739&m='>ὅς</a></rt></ruby><rt>R-ASF</rt></RUBY>⮥°¹)C (<RUBY><ruby><ruby>ποτε<rt>原先 once</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=04218&m='>ποτέ</a></rt></ruby><rt>PRT</rt></RUBY>)A (<RUBY><ruby><ruby><span class='verb'>ἐπόρθει</span><rt>他殘害 he was destroying</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=04199&m='>πορθέω</a></rt></ruby><rt>V-IAI-3S</rt></RUBY>)P <span class='punctuation'>,</span> 
 - 1:24 <RUBY><ruby><ruby>καὶ<rt>就 And</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02532&m='>καί</a></rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby><span class='verb'>ἐδόξαζον</span><rt>他們榮耀 they were glorifying</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01392&m='>δοξάζω</a></rt></ruby><rt>V-IAI-3P</rt></RUBY>)P (<RUBY><ruby><ruby>ἐν<rt>為 in</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01722&m='>ἐν</a></rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ἐμοὶ<rt>我 me</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01473&m='>ἐγώ</a></rt></ruby><rt>P-1DS</rt></RUBY>)A (<RUBY><ruby><ruby>τὸν<rt>- -</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></rt></ruby><rt>T-ASM</rt></RUBY> <RUBY><ruby><ruby>Θεόν<rt>上帝 God</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02316&m='>θεός</a></rt></ruby><rt>N-ASM</rt></RUBY>)C <span class='punctuation'>.</span>
+
+
+
+
+## 句法筆記 (Syntax Notes)
+
+
+## 語意圖析 (Semantic Diagram)
+
+
+
+
+
+---
+[加拉太書希臘文筆記 ↵](Galatians-Notes.md)

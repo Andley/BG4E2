@@ -2,6 +2,10 @@
 title: "Gal 1:1-5"
 ---
 
+# Salutation (Gal 1.1-5)
+
+## 句法圖析 (Syntactic Diagram)
+
 - 1:1a (<RUBY><ruby><ruby>Παῦλος<rt>保羅 Paul</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03972&m='>Παῦλος</a></rt></ruby><rt>N-NSM</rt></RUBY>)S (<RUBY><ruby><ruby>ἀπόστολος<rt>使徒 an apostle</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=00652&m='>ἀπόστολος</a></rt></ruby><rt>N-NSM</rt></RUBY>)=S°¹
 	- (<RUBY><ruby><ruby>οὐκ<rt>不是 not</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03756&m='>οὐ</a></rt></ruby><rt>PRT-N</rt></RUBY> «<RUBY><ruby><ruby>ἀπ᾽<rt>由於 from</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=00575&m='>ἀπό</a></rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ἀνθρώπων<rt>人 men</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=00444&m='>ἄνθρωπος</a></rt></ruby><rt>N-GPM</rt></RUBY>»)⮥°¹ 
 	- (<RUBY><ruby><ruby>οὐδὲ<rt>也不 nor</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03761&m='>οὐδέ</a></rt></ruby><rt>CONJ-N</rt></RUBY> «<RUBY><ruby><ruby>δι᾽<rt>藉著 through</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01223&m='>διά</a></rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ἀνθρώπου<rt>人 man</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=00444&m='>ἄνθρωπος</a></rt></ruby><rt>N-GSM</rt></RUBY>»)⮥°¹ 
@@ -14,3 +18,18 @@ title: "Gal 1:1-5"
 		- 1:4b <RUBY><ruby><ruby>ὅπως<rt>為要 so that</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03704&m='>ὅπως</a></rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby><span class='verb'>ἐξέληται</span><rt>拯救 He might deliver</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01807&m='>ἐξαιρέω</a></rt></ruby><rt>V-AMS-3S</rt></RUBY>)P (<RUBY><ruby><ruby>ἡμᾶς<rt>我們 us</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01473&m='>ἐγώ</a></rt></ruby><rt>P-1AP</rt></RUBY>)C (<RUBY><ruby><ruby>ἐκ<rt>脫離 out of</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01537&m='>ἐκ</a></rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>- the</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></rt></ruby><rt>T-GSM</rt></RUBY> <RUBY><ruby><ruby>αἰῶνος<rt>世代 age</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=00165&m='>αἰών</a></rt></ruby><rt>N-GSM</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>這 of</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></rt></ruby><rt>T-GSM</rt></RUBY> <RUBY><ruby><ruby><span class='ptc'>ἐνεστῶτος</span><rt>現今 having come presently</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01764&m='>ἐνίστημι</a></rt></ruby><rt>V-RAP-GSM</rt></RUBY> <RUBY><ruby><ruby>πονηροῦ<rt>罪惡 evil</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=04190&m='>πονηρός</a></rt></ruby><rt>A-GSM</rt></RUBY>)A (<RUBY><ruby><ruby>κατὰ<rt>照著 according to</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02596&m='>κατά</a></rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τὸ<rt>- the</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></rt></ruby><rt>T-ASN</rt></RUBY> <RUBY><ruby><ruby>θέλημα<rt>旨意 will</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02307&m='>θέλημα</a></rt></ruby><rt>N-ASN</rt></RUBY> «<RUBY><ruby><ruby>τοῦ<rt>- of the</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></rt></ruby><rt>T-GSM</rt></RUBY> <RUBY><ruby><ruby>Θεοῦ<rt>上帝 God</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02316&m='>θεός</a></rt></ruby><rt>N-GSM</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>- and</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02532&m='>καί</a></rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>Πατρὸς<rt>父 Father</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03962&m='>πατήρ</a></rt></ruby><rt>N-GSM</rt></RUBY> <RUBY><ruby><ruby>ἡμῶν<rt>我們 of us</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01473&m='>ἐγώ</a></rt></ruby><rt>P-1GP</rt></RUBY>»°⁴)A <span class='punctuation'>,</span> 
 			- 1:5 (<RUBY><ruby><ruby>ᾧ<rt>歸給他 to whom [be]</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03739&m='>ὅς</a></rt></ruby><rt>R-DSM</rt></RUBY>⮥°⁴)C (<RUBY><ruby><ruby>ἡ<rt>- the</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></rt></ruby><rt>T-NSF</rt></RUBY> <RUBY><ruby><ruby>δόξα<rt>榮耀 glory</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01391&m='>δόξα</a></rt></ruby><rt>N-NSF</rt></RUBY>)S (<RUBY><ruby><ruby>εἰς<rt>直到 to</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01519&m='>εἰς</a></rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τοὺς<rt>- the</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></rt></ruby><rt>T-APM</rt></RUBY> <RUBY><ruby><ruby>αἰῶνας<rt>永遠 ages</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=00165&m='>αἰών</a></rt></ruby><rt>N-APM</rt></RUBY> «<RUBY><ruby><ruby>τῶν<rt>- of the</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></rt></ruby><rt>T-GPM</rt></RUBY> <RUBY><ruby><ruby>αἰώνων<rt>永遠 ages</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=00165&m='>αἰών</a></rt></ruby><rt>N-GPM</rt></RUBY>»)A <span class='punctuation'>,</span> 
 				- <RUBY><ruby><ruby>ἀμήν<rt>阿們 Amen</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=00281&m='>ἀμήν</a></rt></ruby><rt>HEB</rt></RUBY> <span class='punctuation'>.</span><span class='paragraph'></span>
+
+
+
+
+## 句法筆記 (Syntax Notes)
+
+
+## 語意圖析 (Semantic Diagram)
+
+
+
+
+
+---
+[加拉太書希臘文筆記 ↵](Galatians-Notes.md)

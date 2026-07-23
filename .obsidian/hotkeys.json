@@ -89,13 +89,5 @@
       ],
       "key": "F"
     }
-  ],
-  "editor:insert-footnote": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "F"
-    }
   ]
 }

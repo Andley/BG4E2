@@ -1,5 +1,9 @@
 ---
-title: "Galatians-Clause"
-date: 2026-07-04
-draft: false
+title: "加拉太書子句結構"
+weight: 03
 ---
+
+
+### 原文特色
+
+- [加拉太書子句結構](app://obsidian.md/Galatians-Clause.md)

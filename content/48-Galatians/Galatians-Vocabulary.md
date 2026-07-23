@@ -1,7 +1,6 @@
 ---
-title: "Galatians-Vocabulary"
-date: 2026-07-04
-draft: false
+title: "加拉太書詞彙分析"
+weight: 05
 ---
 #### 圖析 (Gal 1:1-5)
 
