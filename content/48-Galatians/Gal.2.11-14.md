@@ -1,3 +1,7 @@
+---
+title: "Gal 2:11-14"
+---
+
 
 - 2:11a ⸉<RUBY><ruby><ruby>δὲ<rt>不過 however</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01161&m='>δέ</a></rt></ruby><rt>CONJ</rt></RUBY>⸊
 	- 2:11b <RUBY><ruby><ruby>ὅτε<rt>當 When</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03753&m='>ὅτε</a></rt></ruby><rt>CONJ</rt></RUBY> ⸉⸊ (<RUBY><ruby><ruby><span class='verb'>ἦλθεν</span><rt>來 came</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02064&m='>ἔρχομαι</a></rt></ruby><rt>V-AAI-3S</rt></RUBY>)P (<RUBY><ruby><ruby>Κηφᾶς<rt>磯法 Peter</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02786&m='>Κηφᾶς</a></rt></ruby><rt>N-NSM</rt></RUBY>)S (<RUBY><ruby><ruby>εἰς<rt>到 to</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01519&m='>εἰς</a></rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>Ἀντιόχειαν<rt>安提阿 Antioch</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=00490&m='>Ἀντιόχεια</a></rt></ruby><rt>N-ASF</rt></RUBY>)A <span class='punctuation'>,</span> 
