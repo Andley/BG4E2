@@ -28,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/48-Galatians/Gal.1.1-5.md",
+                "file": "content/48-Galatians/Galatians-Interlinear-2.5lines.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Gal.1.1-5"
+              "title": "Galatians-Interlinear-2.5lines"
             }
           }
         ],
@@ -78,7 +78,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -121,18 +123,19 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "7cf29117bbc50740",
@@ -283,11 +286,11 @@
       }
     ]
   },
-  "active": "9eb97e5e1158fde1",
+  "active": "95b2d4f61a2c61a2",
   "lastOpenFiles": [
-    "content/Tools/Phrasing-Signs.md",
-    "content/48-Galatians/Gal.1.1-5.md",
     "content/48-Galatians/Galatians-Notes.md",
+    "content/48-Galatians/Gal.1.1-5.md",
+    "content/Tools/Phrasing-Signs.md",
     "content/48-Galatians/Galatians-Clause.md",
     "content/48-Galatians/Galatians-Intertextuality.md",
     "content/48-Galatians/Galatians-Interlinear-4lines.md",
