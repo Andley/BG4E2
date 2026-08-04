@@ -16,9 +16,10 @@ xxx⁞yyy | 詞形代碼有兩種可能
 結構 (structure) 的符號  | 含意 
 :---: | :----: 
  ( ...... ) | 子句的構成元素 (constituent) 
- ⟦ .. ⟦ ... ⟧.. ⟧ | 內嵌子句 (Embedded Clause) 
+ ⟦ ... ⟧ <br> <sub>⟦</sub> ... <sub>⟧</sub> | 內嵌子句 (Embedded Clause) <br> 遞迴內嵌子句 (Recursive Embedded Clause) 用<sub>下標的 ⟦...⟧ </sub>
+   | 內嵌子句 (Embedded Clause) 
  ⟨ ...... ⟩ | 內嵌子句的構成元素 (constituent) 
- « .. ‹ .... › .. » | 構成元素內的詞組 (word group)
+ « .. ‹ .... › .. » | 詞組 (word group)
 (前半段)⦇ ... ⦈(後半段) |  倒置 (hyperbaton)
 ⸉⸊、⸉δὲ⸊ | 後置詞原本的位置、調換之後的新位置
 
