@@ -225,11 +225,11 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:開啟快速切換": false,
-      "graph:查看關聯圖": false,
-      "canvas:建立新畫布": false,
-      "templates:插入模板": false,
-      "command-palette:開啟命令面板": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false
     }
   },
@@ -263,11 +263,11 @@
           }
         ],
         "direction": "vertical",
-        "x": -190,
-        "y": 927,
-        "width": 1478,
-        "height": 880,
-        "maximize": true,
+        "x": -191,
+        "y": 926,
+        "width": 1233,
+        "height": 734,
+        "maximize": false,
         "zoom": 1
       }
     ]
@@ -275,6 +275,7 @@
   "active": "95b2d4f61a2c61a2",
   "lastOpenFiles": [
     "content/48-Galatians/Gal.1.1-5.md",
+    "content/Tools/Phrasing-Signs.md",
     "content/48-Galatians/Galatians-Notes.md",
     "content/48-Galatians/Gal.1.6-10.md",
     "content/48-Galatians/Galatians-Intertextuality.md",
@@ -283,7 +284,6 @@
     "content/48-Galatians/Galatians-Interlinear-2lines.md",
     "content/48-Galatians/Galatians-Interlinear-2.5lines.md",
     "content/Semantics/synonyms.md",
-    "content/Tools/Phrasing-Signs.md",
     "content/48-Galatians/間接受格（Dative）：狀語（Adjunct）vs. 補語（Complement）判準.md",
     "content/Semantics/Louw-Nida §89-§91.md",
     "content/Semantics/Idioms.md",
