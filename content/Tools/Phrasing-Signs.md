@@ -3,24 +3,29 @@ title: "圖析符號說明"
 draft: false
 ---
 
+
 # 圖析符號說明 (2026-07)
 
 
-形式 (form) 的符號  | 含意 
+形式 (form) 的含意  |  符號
 :---: | :----: 
-<span class='verb'>紅色字體希臘文</span> | 動詞 
-<span class='ptc'>藍色字體希臘文</span> | 分詞 
-<span class='inf'>綠色字體希臘文</span> | 不定詞 
-xxx⁞yyy | 詞形代碼有兩種可能
+動詞  | <span class='verb'>紅色字體希臘文</span>
+分詞 | <span class='ptc'>藍色字體希臘文</span>
+不定詞 |<span class='inf'>綠色字體希臘文</span>
+詞形代碼有兩種可能| V-PPI⁞PMI-3S
 
-結構 (structure) 的符號  | 含意 
+結構 (structure) 的含意  |  符號
 :---: | :----: 
- ( ...... ) | 主要子句、從屬子句的構成元素 (constituent) 
- ⟦ ..<sub>⟦</sub> ... <sub>⟧</sub>.. ⟧ <br>  | 內嵌子句 (Embedded Clause) <br> 遞迴內嵌子句 (Recursive Embedded Clause) 用<sub>下標的 ⟦...⟧ </sub>
- ⟨ ...... ⟩ | 內嵌子句的構成元素 (constituent) 
- « .. ‹ .... › .. » | 詞組 (word group)
-(前半段)⦇ ... ⦈(後半段) |  倒置 (hyperbaton)
-⸉⸊、⸉δὲ⸊ | 後置詞原本的位置、調換之後的新位置
+主要子句、從屬子句 | 用清單的層級表示
+主要子句、從屬子句的構成元素 |  ( ... ) 
+內嵌子句 | [ ...... ] 
+內嵌子句的構成元素 | ‹ .... › 
+雙重內嵌子句<br>(內嵌子句裡面的內嵌子句) |  ⟦ ...... ⟧ 
+雙重內嵌子句裡面的構成元素 | « ... » 
+詞組 | ⸢ ... ⸣
+詞組裡面的詞組 | ⸤ ... ⸥
+倒置 (hyperbaton)：同一個句法單元被切成兩半 | (前半段)⦇ ... ⦈(後半段)<br>[前半段]⦇ ... ⦈[後半段] 
+後置詞原本的位置、調換之後的新位置 | ⸉⸊、⸉δὲ⸊ 
 
 
 
@@ -28,7 +33,7 @@ xxx⁞yyy | 詞形代碼有兩種可能
 :---: | :----: 
 不標示 | 連接詞、否定質詞
 S/P/C/A/V| S=主語; P=謂語; C=補語; A=狀語; V=稱謂 or 驚嘆
-S/P/C/A<br>s/p/c/a<br><sub>s</sub>/<sub>p</sub>/<sub>c</sub>/<sub>a</sub> | 主要子句、從屬子句的構成元素用大寫<br>內嵌子句 (Embedded Clause) 用小寫<br>遞迴內嵌子句 (Recursive Embedded Clause) 用<sub>下標的小寫</sub>
+S/P/C/A<br>s/p/c/a | 主要子句、從屬子句的構成元素用大寫<br>內嵌子句用小寫
 = |  同位 (apposition)</br>通常涉及名詞類，可以取代先行詞 (antecedent)
 ≒| 附帶說明 (epexegetical)</br>通常涉及動詞類，不能取代先行詞 (antecedent)
 +  | 補充 (complement) </br> object-complement 中的 complement (相當於 object 的 predicate)
@@ -39,7 +44,7 @@ S/P/C/A<br>s/p/c/a<br><sub>s</sub>/<sub>p</sub>/<sub>c</sub>/<sub>a</sub> | 主�
 ...xxx... | 從上下文推敲出來被省略掉的字詞
 °¹, °², °³ ...| 指向(修飾、連結)其他的字詞/片語
 xxx°¹、yyy°², zzz°³ ...| 被指向 (修飾、連結) 的字詞/片語
-⮥、⮧ |  指向上文、指向下文
+⮥、⮧ |  指向(修飾、連結)上文、指向(修飾、連結)下文
 『 ... 』 | 說話的內容
 ‸‸‸ ...‸‸‸ | 插入的段落
 
