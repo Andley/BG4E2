@@ -15,16 +15,16 @@
   "version": "2",
   "prevConfig": {
     "pageSize": "A4",
-    "marginType": "1",
+    "marginType": "3",
     "showTitle": false,
     "open": true,
     "scale": 100,
     "landscape": true,
     "marginTop": "10",
-    "marginBottom": "10",
-    "marginLeft": "20",
-    "marginRight": "20",
-    "displayHeader": false,
+    "marginBottom": "0",
+    "marginLeft": "0",
+    "marginRight": "0",
+    "displayHeader": true,
     "displayFooter": true,
     "cssSnippet": "0"
   }
