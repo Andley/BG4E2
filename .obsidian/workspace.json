@@ -6,7 +6,7 @@
       {
         "id": "0e7bbbc52ac0c535",
         "type": "tabs",
-        "dimension": 47.18706047819972,
+        "dimension": 44.86638537271448,
         "children": [
           {
             "id": "917e1fe44ac8162a",
@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/48-Galatians/Gal.1.11-24.md",
-                "mode": "preview",
+                "file": "content/48-Galatians/Gal.1.1-5.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Gal.1.11-24"
+              "title": "Gal.1.1-5"
             },
             "group": "a61bfbcc097b7277"
           }
@@ -28,7 +28,7 @@
       {
         "id": "fbc89097de086da8",
         "type": "tabs",
-        "dimension": 52.81293952180028,
+        "dimension": 55.13361462728552,
         "children": [
           {
             "id": "e62240bcd86fba29",
@@ -36,12 +36,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/48-Galatians/Gal.1.11-24.md",
+                "file": "content/48-Galatians/Gal.1.1-5.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Gal.1.11-24"
+              "title": "Gal.1.1-5"
             },
             "group": "a61bfbcc097b7277"
           }
@@ -276,16 +276,19 @@
   },
   "active": "bcfe71adb73ff9a1",
   "lastOpenFiles": [
+    "content/48-Galatians/Gal.1.1-5.md",
+    "content/48-Galatians/Gal.2.1-10.md",
+    "content/Tools/Phrasing-Signs.md",
+    "content/48-Galatians/Gal.2.11-14.md",
     "content/48-Galatians/Gal.1.11-24.md",
     "content/48-Galatians/Gal.1.6-10.md",
-    "content/48-Galatians/Gal.1.1-5.md",
-    "content/Tools/Phrasing-Signs.md",
-    "content/48-Galatians/Galatians-Notes.md",
-    "content/48-Galatians/Galatians-Intertextuality.md",
+    "content/48-Galatians/Gal.2.15-21.md",
     "content/48-Galatians/Galatians-Interlinear-4lines.md",
+    "content/48-Galatians/Galatians-Intertextuality.md",
+    "content/48-Galatians/Galatians-Interlinear-2.5lines.md",
+    "content/48-Galatians/Galatians-Notes.md",
     "content/48-Galatians/Galatians-Interlinear-3lines.md",
     "content/48-Galatians/Galatians-Interlinear-2lines.md",
-    "content/48-Galatians/Galatians-Interlinear-2.5lines.md",
     "content/Semantics/synonyms.md",
     "content/48-Galatians/間接受格（Dative）：狀語（Adjunct）vs. 補語（Complement）判準.md",
     "content/Semantics/Louw-Nida §89-§91.md",
@@ -297,9 +300,6 @@
     "content/48-Galatians/Galatians-Clause.md",
     "content/48-Galatians/_index.md",
     "content/48-Galatians/全民希臘文（BG4E）新約句法分析.md",
-    "content/48-Galatians/Gal.2.15-21.md",
-    "content/48-Galatians/Gal.2.11-14.md",
-    "content/48-Galatians/Gal.2.1-10.md",
     "content/48-Galatians/Galatians-Vocabulary.md",
     "content/48-Galatians/Galatians-Style.md",
     "public/48-galatians/Galatians-Notes.md/index.xml",

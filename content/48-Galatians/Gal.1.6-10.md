@@ -2,6 +2,9 @@
 title: "Gal 1:6-10"
 ---
 
+### There is No Other Gospel (Gal 1:6-10)
+
+#### 句法圖析 (Syntactic Diagram)
 
 - 1:6a (<RUBY><ruby><ruby><span class='verb'>Θαυμάζω</span><rt>我驚奇 I am astonished</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02296&m='>θαυμάζω</a></rt></ruby><rt>V-PAI-1S</rt></RUBY>)P 
 	- 1:6b <RUBY><ruby><ruby>ὅτι<rt>- that</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03754&m='>ὅτι</a></rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>οὕτως<rt>這麼 so</rt></ruby><rt>οὕτω, <a href='https://bible.fhl.net/new/s.php?N=0&k=03779&m='>οὕτως</a></rt></ruby><rt>ADV</rt></RUBY> <RUBY><ruby><ruby>ταχέως<rt>輕易地 quickly</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=05030&m='>ταχέως</a></rt></ruby><rt>ADV</rt></RUBY>)A (<RUBY><ruby><ruby><span class='verb'>μετατίθεσθε</span><rt>你們離開 you are deserting</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03346&m='>μετατίθημι</a></rt></ruby><rt>V-PEI-2P</rt></RUBY>)P (<RUBY><ruby><ruby>ἀπὸ<rt>從 from</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=00575&m='>ἀπό</a></rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>那位 the [One]</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></rt></ruby><rt>T-GSM</rt></RUBY> [‹<RUBY><ruby><ruby><span class='ptc'>καλέσαντος</span><rt>呼召 having called</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02564&m='>καλέω</a></rt></ruby><rt>V-AAP-GSM</rt></RUBY>›p ‹<RUBY><ruby><ruby>ὑμᾶς<rt>你們 you</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=04771&m='>σύ</a></rt></ruby><rt>P-2AP</rt></RUBY>›c ‹<RUBY><ruby><ruby>ἐν<rt>憑著 in</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01722&m='>ἐν</a></rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>χάριτι<rt>恩典 [the] grace</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=05485&m='>χάρις</a></rt></ruby><rt>N-DSF</rt></RUBY> <RUBY><ruby><ruby>Χριστοῦ<rt>基督 of Christ</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=05547&m='>Χριστός</a></rt></ruby><rt>N-GSM</rt></RUBY>›a])A (<RUBY><ruby><ruby>εἰς<rt>向 to</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01519&m='>εἰς</a></rt></ruby><rt>PREP</rt></RUBY> ⸢<RUBY><ruby><ruby>ἕτερον<rt>別 a different</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02087&m='>ἕτερος</a></rt></ruby><rt>A-ASN</rt></RUBY> <RUBY><ruby><ruby>εὐαγγέλιον<rt>福音 gospel</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02098&m='>εὐαγγέλιον</a></rt></ruby><rt>N-ASN</rt></RUBY>⸣°¹)A <span class='punctuation'>,</span> 
@@ -23,14 +26,8 @@ title: "Gal 1:6-10"
 - 1:10d (<RUBY><ruby><ruby>Χριστοῦ<rt>基督 of Christ</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=05547&m='>Χριστός</a></rt></ruby><rt>N-GSM</rt></RUBY> <RUBY><ruby><ruby>δοῦλος<rt>僕人 a servant</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01401&m='>δοῦλος</a></rt></ruby><rt>N-NSM</rt></RUBY>)C <RUBY><ruby><ruby>οὐκ<rt>不 not</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03756&m='>οὐ</a></rt></ruby><rt>PRT-N</rt></RUBY> (<RUBY><ruby><ruby>ἂν<rt>就 -</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=00302&m='>ἄν</a></rt></ruby><rt>PRT</rt></RUBY>)A (<RUBY><ruby><ruby><span class='verb'>ἤμην</span><rt>我是 I would be</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01510&m='>εἰμί</a></rt></ruby><rt>V-IMI-1S</rt></RUBY>)P <span class='punctuation'>.</span>
 
 
-## 句法筆記 (Syntax Notes)
+#### 句法筆記 (Syntax Notes)
 
 
-## 語意圖析 (Semantic Diagram)
+#### 語意圖析 (Semantic Diagram)
 
-
-
-
-
----
-[加拉太書希臘文筆記 ↵](Galatians-Notes.md)

@@ -2,9 +2,9 @@
 title: "Gal 1:1-5"
 ---
 
-# Salutation (Gal 1.1-5)
+### Salutation (Gal 1.1-5)
 
-## 句法圖析 (Syntactic Diagram)
+#### 句法圖析 (Syntactic Diagram)
 
 - 1:1a (<RUBY><ruby><ruby>Παῦλος<rt>保羅 Paul</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03972&m='>Παῦλος</a></rt></ruby><rt>N-NSM</rt></RUBY>)S (<RUBY><ruby><ruby>ἀπόστολος<rt>使徒 an apostle</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=00652&m='>ἀπόστολος</a></rt></ruby><rt>N-NSM</rt></RUBY>°¹)=S 
 	- ⸢<RUBY><ruby><ruby>οὐκ<rt>不是 not</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03756&m='>οὐ</a></rt></ruby><rt>PRT-N</rt></RUBY> <RUBY><ruby><ruby>ἀπ᾽<rt>由於 from</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=00575&m='>ἀπό</a></rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ἀνθρώπων<rt>人 men</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=00444&m='>ἄνθρωπος</a></rt></ruby><rt>N-GPM</rt></RUBY>⸣⮥°¹ 
@@ -21,14 +21,11 @@ title: "Gal 1:1-5"
 
 
 
-## 句法筆記 (Syntax Notes)
+#### 句法筆記 (Syntax Notes)
 
 
-## 語意圖析 (Semantic Diagram)
+#### 語意圖析 (Semantic Diagram)
 
 
 
 
-
----
-[加拉太書希臘文筆記 ↵](Galatians-Notes.md)

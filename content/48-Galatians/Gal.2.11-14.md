@@ -1,7 +1,9 @@
 ---
 title: "Gal 2:11-14"
 ---
+### Paul Rebukes Peter at Antioch (Gal 2:11-14)
 
+#### 句法圖析 (Syntactic Diagram)
 
 - 2:11a ⸉<RUBY><ruby><ruby>δὲ<rt>不過 however</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01161&m='>δέ</a></rt></ruby><rt>CONJ</rt></RUBY>⸊
 	- 2:11b <RUBY><ruby><ruby>ὅτε<rt>當 When</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03753&m='>ὅτε</a></rt></ruby><rt>CONJ</rt></RUBY> ⸉⸊ (<RUBY><ruby><ruby><span class='verb'>ἦλθεν</span><rt>來 came</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02064&m='>ἔρχομαι</a></rt></ruby><rt>V-AAI-3S</rt></RUBY>)P (<RUBY><ruby><ruby>Κηφᾶς<rt>磯法 Peter</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02786&m='>Κηφᾶς</a></rt></ruby><rt>N-NSM</rt></RUBY>)S (<RUBY><ruby><ruby>εἰς<rt>到 to</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01519&m='>εἰς</a></rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>Ἀντιόχειαν<rt>安提阿 Antioch</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=00490&m='>Ἀντιόχεια</a></rt></ruby><rt>N-ASF</rt></RUBY>)A <span class='punctuation'>,</span> 
@@ -24,15 +26,7 @@ title: "Gal 2:11-14"
 	- 2:14f (<RUBY><ruby><ruby>πῶς<rt>怎麼 why</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=04459&m='>πως</a></rt></ruby><rt>ADV</rt></RUBY>)A ⟦⟨<RUBY><ruby><ruby>τὰ<rt>- the</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></rt></ruby><rt>T-APN</rt></RUBY> <RUBY><ruby><ruby>ἔθνη<rt>外邦人 Gentiles</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01484&m='>ἔθνος</a></rt></ruby><rt>N-APN</rt></RUBY>⟩c⟧⦇ (<RUBY><ruby><ruby><span class='verb'>ἀναγκάζεις</span><rt>勉強 do you compel</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=00315&m='>ἀναγκάζω</a></rt></ruby><rt>V-PAI-2S</rt></RUBY>)P ⦈⟦⟨<RUBY><ruby><ruby><span class='inf'>ἰουδαΐζειν</span><rt>按照猶太人 to Judaize?</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02450&m='>Ἰουδαΐζω</a></rt></ruby><rt>V-PAN</rt></RUBY>⟩p⟧C <span class='punctuation'>;</span> 』
 
 
-
-## 句法筆記 (Syntax Notes)
-
-
-## 語意圖析 (Semantic Diagram)
+#### 句法筆記 (Syntax Notes)
 
 
-
-
-
----
-[加拉太書希臘文筆記 ↵](Galatians-Notes.md)
+#### 語意圖析 (Semantic Diagram)
