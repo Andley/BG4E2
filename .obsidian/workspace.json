@@ -4,46 +4,42 @@
     "type": "split",
     "children": [
       {
-        "id": "0e7bbbc52ac0c535",
+        "id": "88407937b69787a6",
         "type": "tabs",
-        "dimension": 44.86638537271448,
         "children": [
           {
-            "id": "917e1fe44ac8162a",
+            "id": "4daa6bc3461c651c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/48-Galatians/Gal.2.15-21.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Gal.2.15-21"
-            },
-            "group": "a61bfbcc097b7277"
-          }
-        ]
-      },
-      {
-        "id": "fbc89097de086da8",
-        "type": "tabs",
-        "dimension": 55.13361462728552,
-        "children": [
-          {
-            "id": "e62240bcd86fba29",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/48-Galatians/Gal.2.15-21.md",
+                "file": "content/48-Galatians/Gal.1.1-5.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Gal.2.15-21"
-            },
-            "group": "a61bfbcc097b7277"
+              "title": "Gal.1.1-5"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ac051305401de79c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "af23435d5cd71ca0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/48-Galatians/Gal.1.1-5.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Gal.1.1-5"
+            }
           }
         ]
       }
@@ -235,10 +231,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "917e1fe44ac8162a",
+  "active": "af23435d5cd71ca0",
   "lastOpenFiles": [
-    "content/Tools/Phrasing-Signs.md",
     "content/48-Galatians/Gal.2.15-21.md",
+    "content/Tools/Phrasing-Signs.md",
     "content/48-Galatians/Galatians-Interlinear-4lines.md",
     "content/48-Galatians/Galatians-Interlinear-3lines.md",
     "content/48-Galatians/Galatians-Interlinear-2lines.md",
