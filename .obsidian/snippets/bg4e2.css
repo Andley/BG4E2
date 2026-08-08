@@ -17,80 +17,22 @@ h1, h2, h3, h4, h5, h6 {
   }
 
 /* === css for <ruby> Interlinear === */
-/* =========================================================
-   Greek Ruby
-   ========================================================= */
-
 ruby {
-  font-size: 1em;
-  ruby-align: start;
-  ruby-position: over;
-
-  font-family: AndleyFont, "Noto Sans ExtraCondensed", "未來熒黑";
-
-  /* 不再用 5em 撐高 ruby */
-  line-height: 1;
+  font-size: 1em ; 
+  ruby-align:start;
+  font-family:  AndleyFont, "Noto Sans ExtraCondensed", "未來熒黑";
+  line-height:5em;
 }
-
 
 rt {
-  font-size: 0.85em;
-
+  font-size: 0.85em ; 
   padding: 0 3px 0 0;
-
-  font-family: AndleyFont, "Noto Sans ExtraCondensed", "未來熒黑";
-
-  /* gloss 不允許自己換行 */
+  font-family: AndleyFont, "Noto Sans ExtraCondensed", "未來熒黑" ;
   white-space: nowrap;
+} 
 
-  /* rt 本身不要把行高撐得太高 */
-  line-height: 1;
-}
-
-
-/* =========================================================
-   List
-   ========================================================= */
-
-/* li 與 li 之間 = 0em */
-.markdown-preview-view ul li,
-.markdown-preview-view ol li {
-  margin-top: 0 !important;
-  margin-bottom: 0 !important;
-
-  /* 自動換行的行距 = 2em */
-  line-height: 1.5em;
-}
-
-
-/* =========================================================
-   Ruby inside List
-   ========================================================= */
-
-.markdown-preview-view ul li ruby,
-.markdown-preview-view ol li ruby {
-  line-height: 1;
-}
-
-
-/* =========================================================
-   Nested List
-   ========================================================= */
-
-/* 巢狀 ul / ol 與上一個 li 不增加額外 spacing */
-.markdown-preview-view li > ul,
-.markdown-preview-view li > ol {
-  margin-top: 0 !important;
-  margin-bottom: 0 !important;
-}
-
-
-/* 巢狀 list 的 li 同樣沒有上下 margin */
-.markdown-preview-view li > ul > li,
-.markdown-preview-view li > ol > li {
-  margin-top: 0 !important;
-  margin-bottom: 0 !important;
-  line-height: 2em;
+li  ruby {
+  line-height:4.2em;
 }
 
 

@@ -4,41 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "88407937b69787a6",
+        "id": "5779b08d2976e333",
         "type": "tabs",
         "children": [
           {
-            "id": "4daa6bc3461c651c",
+            "id": "74a5d10e06e37ba2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/48-Galatians/Gal.1.1-5.md",
-                "mode": "preview",
+                "file": "content/48-Galatians/Gal.1.6-10.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Gal.1.1-5"
+              "title": "Gal.1.6-10"
             }
           }
         ]
       },
       {
-        "id": "ac051305401de79c",
+        "id": "7575126bd223baeb",
         "type": "tabs",
         "children": [
           {
-            "id": "af23435d5cd71ca0",
+            "id": "26dfee4e4e4145b4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/48-Galatians/Gal.1.1-5.md",
+                "file": "content/48-Galatians/Gal.1.6-10.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Gal.1.1-5"
+              "title": "Gal.1.6-10"
             }
           }
         ]
@@ -118,8 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 399.5116882324219,
-    "collapsed": true
+    "width": 399.5116882324219
   },
   "right": {
     "id": "7cf29117bbc50740",
@@ -231,8 +230,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "af23435d5cd71ca0",
+  "active": "74a5d10e06e37ba2",
   "lastOpenFiles": [
+    "content/48-Galatians/Gal.1.1-5.md",
+    "content/48-Galatians/Gal.1.6-10.md",
     "content/48-Galatians/Gal.2.15-21.md",
     "content/Tools/Phrasing-Signs.md",
     "content/48-Galatians/Galatians-Interlinear-4lines.md",
@@ -242,8 +243,6 @@
     "content/48-Galatians/Gal.2.11-14.md",
     "content/48-Galatians/Gal.2.1-10.md",
     "content/48-Galatians/Gal.1.11-24.md",
-    "content/48-Galatians/Gal.1.6-10.md",
-    "content/48-Galatians/Gal.1.1-5.md",
     "content/48-Galatians/Galatians-Intertextuality.md",
     "content/48-Galatians/Galatians-Notes.md",
     "content/Semantics/synonyms.md",
