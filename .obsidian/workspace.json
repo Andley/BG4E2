@@ -13,12 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/48-Galatians/Gal.1.6-10.md",
+                "file": "content/48-Galatians/Galatians-Interlinear-4lines.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Gal.1.6-10"
+              "title": "Galatians-Interlinear-4lines"
+            }
+          },
+          {
+            "id": "4990db4bb6eba8ec",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -227,16 +237,19 @@
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "webpage-html-export:Export as HTML": false
     }
   },
   "active": "74a5d10e06e37ba2",
   "lastOpenFiles": [
-    "content/48-Galatians/Gal.1.1-5.md",
+    "content/48-Galatians/Galatians-Interlinear-4lines.md",
+    "public/en.search.min.e0094c35fb67c1a63a2468851f2ad3ad88e6adb1c2e8b3b46e818994ba1dc137.js",
+    "public/en.search-data.min.1aadd8206ecd96ad8d0c46d723d59efc548174dc144317b40f99cefb3d1c342a.json",
     "content/48-Galatians/Gal.1.6-10.md",
+    "content/48-Galatians/Gal.1.1-5.md",
     "content/48-Galatians/Gal.2.15-21.md",
     "content/Tools/Phrasing-Signs.md",
-    "content/48-Galatians/Galatians-Interlinear-4lines.md",
     "content/48-Galatians/Galatians-Interlinear-3lines.md",
     "content/48-Galatians/Galatians-Interlinear-2lines.md",
     "content/48-Galatians/Galatians-Interlinear-2.5lines.md",
@@ -257,7 +270,6 @@
     "content/48-Galatians/_index.md",
     "content/48-Galatians/全民希臘文（BG4E）新約句法分析.md",
     "content/48-Galatians/Galatians-Vocabulary.md",
-    "content/48-Galatians/Galatians-Style.md",
     "public/48-galatians/Galatians-Notes.md/index.xml",
     "public/48-galatians/Galatians-Notes.md/index.html",
     "public/48-galatians/galatians-notes/index.xml",
@@ -266,8 +278,6 @@
     "public/48-galatians/Galatia",
     "public/48-galatians/home/index.xml",
     "public/48-galatians/home/index.html",
-    "public/48-galatians/home",
-    "public/subfolder/home/index.xml",
     "content/GDNTG/GDNTG1.png",
     "static/images/語言金字塔.png",
     "static/images/Pasted image 20260106152338.png",
